@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- Item Multisell -->
+	</npcs>
+	<!-- Spellbooks - 3 Stars -->
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101159" count="1" /> <!-- Spellbook: One With Nature - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100714" count="1" /> <!-- Spellbook: Mystic Freeze - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97042" count="1" /> <!-- Spellbook: Shield of Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97044" count="1" /> <!-- Spellbook: Spiral - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100438" count="1" /> <!-- Spellbook: Final Secret: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100271" count="1" /> <!-- Spellbook: Target Lock - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100272" count="1" /> <!-- Spellbook: Spiral Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99901" count="1" /> <!-- Spellbook: Flame Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99900" count="1" /> <!-- Spellbook: Frost Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99899" count="1" /> <!-- Spellbook: Lightning Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101159" count="1" /> <!-- Spellbook: One With Nature - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100714" count="1" /> <!-- Spellbook: Mystic Freeze - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97042" count="1" /> <!-- Spellbook: Shield of Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97044" count="1" /> <!-- Spellbook: Spiral - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100438" count="1" /> <!-- Spellbook: Final Secret: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100271" count="1" /> <!-- Spellbook: Target Lock - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100272" count="1" /> <!-- Spellbook: Spiral Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99901" count="1" /> <!-- Spellbook: Flame Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99900" count="1" /> <!-- Spellbook: Frost Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99899" count="1" /> <!-- Spellbook: Lightning Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101159" count="1" /> <!-- Spellbook: One With Nature - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100714" count="1" /> <!-- Spellbook: Mystic Freeze - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97042" count="1" /> <!-- Spellbook: Shield of Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97044" count="1" /> <!-- Spellbook: Spiral - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100438" count="1" /> <!-- Spellbook: Final Secret: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100271" count="1" /> <!-- Spellbook: Target Lock - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100272" count="1" /> <!-- Spellbook: Spiral Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99901" count="1" /> <!-- Spellbook: Flame Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99900" count="1" /> <!-- Spellbook: Frost Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99899" count="1" /> <!-- Spellbook: Lightning Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101159" count="1" /> <!-- Spellbook: One With Nature - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100714" count="1" /> <!-- Spellbook: Mystic Freeze - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97042" count="1" /> <!-- Spellbook: Shield of Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97044" count="1" /> <!-- Spellbook: Spiral - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100438" count="1" /> <!-- Spellbook: Final Secret: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100271" count="1" /> <!-- Spellbook: Target Lock - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100272" count="1" /> <!-- Spellbook: Spiral Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99901" count="1" /> <!-- Spellbook: Flame Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99900" count="1" /> <!-- Spellbook: Frost Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99899" count="1" /> <!-- Spellbook: Lightning Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101159" count="1" /> <!-- Spellbook: One With Nature - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100714" count="1" /> <!-- Spellbook: Mystic Freeze - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97042" count="1" /> <!-- Spellbook: Shield of Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97044" count="1" /> <!-- Spellbook: Spiral - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100438" count="1" /> <!-- Spellbook: Final Secret: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100271" count="1" /> <!-- Spellbook: Target Lock - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100272" count="1" /> <!-- Spellbook: Spiral Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99901" count="1" /> <!-- Spellbook: Flame Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99900" count="1" /> <!-- Spellbook: Frost Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99899" count="1" /> <!-- Spellbook: Lightning Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="101159" count="1" /> <!-- Spellbook: One With Nature - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100714" count="1" /> <!-- Spellbook: Mystic Freeze - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97042" count="1" /> <!-- Spellbook: Shield of Magic - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="97044" count="1" /> <!-- Spellbook: Spiral - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100438" count="1" /> <!-- Spellbook: Final Secret: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100271" count="1" /> <!-- Spellbook: Target Lock - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="100272" count="1" /> <!-- Spellbook: Spiral Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99901" count="1" /> <!-- Spellbook: Flame Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99900" count="1" /> <!-- Spellbook: Frost Grip - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97123" count="1" /> <!-- Spellbook Coupon - 3 Stars (Time-limited) - Sealed -->
+		<production id="99899" count="1" /> <!-- Spellbook: Lightning Grip - Sealed -->
+	</item>
+</list>

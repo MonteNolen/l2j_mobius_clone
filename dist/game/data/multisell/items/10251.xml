@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- Item Multisell -->
+	</npcs>
+	<!-- Enchanted Talismans, Cloaks of Protection -->
+	<item>
+		<ingredient id="101346" count="1" /> <!-- Eva's Enchanted Special Equipment Coupon (Time-limited) - Sealed -->
+		<production id="96624" count="1" /> <!-- Package: +5 Cloak of Protection - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101346" count="1" /> <!-- Eva's Enchanted Special Equipment Coupon (Time-limited) - Sealed -->
+		<production id="92454" count="1" /> <!-- +4 Talisman of Eva Pack - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101346" count="1" /> <!-- Eva's Enchanted Special Equipment Coupon (Time-limited) - Sealed -->
+		<production id="92446" count="1" /> <!-- +4 Talisman of Aden Pack - Sealed -->
+	</item>
+</list>

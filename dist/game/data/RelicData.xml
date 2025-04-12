@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/RelicData.xsd">
+	<relic id="1" grade="1"> <!-- Princess Molrang Doll -->
+		<relicStat enchantLevel="0" skillId="50702" skillLevel="1" /> <!-- Princess Molrang Doll Lv. 1 -->
+	</relic>
+	<relic id="2" grade="2"> <!-- Princess Molrang Doll -->
+		<relicStat enchantLevel="0" skillId="50702" skillLevel="2" /> <!-- Princess Molrang Doll Lv. 2 -->
+	</relic>
+	<relic id="3" grade="1"> <!-- Deiman Doll -->
+		<relicStat enchantLevel="0" skillId="50703" skillLevel="1" /> <!-- Deiman Doll Lv. 1 -->
+	</relic>
+	<relic id="4" grade="2"> <!-- Deiman Doll -->
+		<relicStat enchantLevel="0" skillId="50703" skillLevel="2" /> <!-- Deiman Doll Lv. 2 -->
+	</relic>
+	<relic id="5" grade="1"> <!-- Satina Doll -->
+		<relicStat enchantLevel="0" skillId="50704" skillLevel="1" /> <!-- Satina Doll Lv. 1 -->
+	</relic>
+	<relic id="6" grade="2"> <!-- Satina Doll -->
+		<relicStat enchantLevel="0" skillId="50704" skillLevel="2" /> <!-- Satina Doll Lv. 2 -->
+	</relic>
+	<relic id="7" grade="1"> <!-- Ryuminir Doll -->
+		<relicStat enchantLevel="0" skillId="50705" skillLevel="1" /> <!-- Ryuminir Doll Lv. 1 -->
+	</relic>
+	<relic id="8" grade="2"> <!-- Ryuminir Doll -->
+		<relicStat enchantLevel="0" skillId="50705" skillLevel="2" /> <!-- Ryuminir Doll Lv. 2 -->
+	</relic>
+	<relic id="9" grade="1"> <!-- Aizen Kelsour Doll -->
+		<relicStat enchantLevel="0" skillId="50706" skillLevel="1" /> <!-- Aizen Kelsour Doll Lv. 1 -->
+	</relic>
+	<relic id="10" grade="2"> <!-- Aizen Kelsour Doll -->
+		<relicStat enchantLevel="0" skillId="50706" skillLevel="2" /> <!-- Aizen Kelsour Doll Lv. 2 -->
+	</relic>
+	<relic id="11" grade="1"> <!-- King Ignis Doll -->
+		<relicStat enchantLevel="0" skillId="50707" skillLevel="1" /> <!-- King Ignis Doll Lv. 1 -->
+	</relic>
+	<relic id="12" grade="2"> <!-- King Ignis Doll -->
+		<relicStat enchantLevel="0" skillId="50707" skillLevel="2" /> <!-- King Ignis Doll Lv. 2 -->
+	</relic>
+	<relic id="13" grade="3"> <!-- King Ignis Doll -->
+		<relicStat enchantLevel="0" skillId="50707" skillLevel="3" /> <!-- King Ignis Doll Lv. 3 -->
+	</relic>
+	<relic id="14" grade="4"> <!-- King Ignis Doll -->
+		<relicStat enchantLevel="0" skillId="50707" skillLevel="4" /> <!-- King Ignis Doll Lv. 4 -->
+	</relic>
+	<relic id="15" grade="1"> <!-- Queen Nebula Doll -->
+		<relicStat enchantLevel="0" skillId="50708" skillLevel="1" /> <!-- Queen Nebula Doll Lv. 1 -->
+	</relic>
+	<relic id="16" grade="2"> <!-- Queen Nebula Doll -->
+		<relicStat enchantLevel="0" skillId="50708" skillLevel="2" /> <!-- Queen Nebula Doll Lv. 2 -->
+	</relic>
+	<relic id="17" grade="3"> <!-- Queen Nebula Doll -->
+		<relicStat enchantLevel="0" skillId="50708" skillLevel="3" /> <!-- Queen Nebula Doll Lv. 3 -->
+	</relic>
+	<relic id="18" grade="4"> <!-- Queen Nebula Doll -->
+		<relicStat enchantLevel="0" skillId="50708" skillLevel="4" /> <!-- Queen Nebula Doll Lv. 4 -->
+	</relic>
+	<relic id="19" grade="1"> <!-- King Procella Doll -->
+		<relicStat enchantLevel="0" skillId="50709" skillLevel="1" /> <!-- King Procella Doll Lv. 1 -->
+	</relic>
+	<relic id="20" grade="2"> <!-- King Procella Doll -->
+		<relicStat enchantLevel="0" skillId="50709" skillLevel="2" /> <!-- King Procella Doll Lv. 2 -->
+	</relic>
+	<relic id="21" grade="3"> <!-- King Procella Doll -->
+		<relicStat enchantLevel="0" skillId="50709" skillLevel="3" /> <!-- King Procella Doll Lv. 3 -->
+	</relic>
+	<relic id="22" grade="4"> <!-- King Procella Doll -->
+		<relicStat enchantLevel="0" skillId="50709" skillLevel="4" /> <!-- King Procella Doll Lv. 4 -->
+	</relic>
+	<relic id="23" grade="1"> <!-- King Petram Doll -->
+		<relicStat enchantLevel="0" skillId="50710" skillLevel="1" /> <!-- King Petram Doll Lv. 1 -->
+	</relic>
+	<relic id="24" grade="2"> <!-- King Petram Doll -->
+		<relicStat enchantLevel="0" skillId="50710" skillLevel="2" /> <!-- King Petram Doll Lv. 2 -->
+	</relic>
+	<relic id="25" grade="3"> <!-- King Petram Doll -->
+		<relicStat enchantLevel="0" skillId="50710" skillLevel="3" /> <!-- King Petram Doll Lv. 3 -->
+	</relic>
+	<relic id="26" grade="4"> <!-- King Petram Doll -->
+		<relicStat enchantLevel="0" skillId="50710" skillLevel="4" /> <!-- King Petram Doll Lv. 4 -->
+	</relic>
+	<relic id="27" grade="1"> <!-- Tiron Doll -->
+		<relicStat enchantLevel="0" skillId="50711" skillLevel="1" /> <!-- Tiron Doll Lv. 1 -->
+	</relic>
+	<relic id="28" grade="2"> <!-- Tiron Doll -->
+		<relicStat enchantLevel="0" skillId="50711" skillLevel="2" /> <!-- Tiron Doll Lv. 2 -->
+	</relic>
+	<relic id="29" grade="3"> <!-- Tiron Doll -->
+		<relicStat enchantLevel="0" skillId="50711" skillLevel="3" /> <!-- Tiron Doll Lv. 3 -->
+	</relic>
+	<relic id="30" grade="4"> <!-- Tiron Doll -->
+		<relicStat enchantLevel="0" skillId="50711" skillLevel="4" /> <!-- Tiron Doll Lv. 4 -->
+	</relic>
+	<relic id="31" grade="1"> <!-- Scarlet van Halisha Doll -->
+		<relicStat enchantLevel="0" skillId="50712" skillLevel="1" /> <!-- Scarlet van Halisha Doll Lv. 1 -->
+	</relic>
+	<relic id="32" grade="2"> <!-- Scarlet van Halisha Doll -->
+		<relicStat enchantLevel="0" skillId="50712" skillLevel="2" /> <!-- Scarlet van Halisha Doll Lv. 2 -->
+	</relic>
+	<relic id="33" grade="3"> <!-- Scarlet van Halisha Doll -->
+		<relicStat enchantLevel="0" skillId="50712" skillLevel="3" /> <!-- Scarlet van Halisha Doll Lv. 3 -->
+	</relic>
+	<relic id="34" grade="4"> <!-- Scarlet van Halisha Doll -->
+		<relicStat enchantLevel="0" skillId="50712" skillLevel="4" /> <!-- Scarlet van Halisha Doll Lv. 4 -->
+	</relic>
+	<relic id="35" grade="5"> <!-- Scarlet van Halisha Doll -->
+		<relicStat enchantLevel="0" skillId="50712" skillLevel="5" /> <!-- Scarlet van Halisha Doll Lv. 5 -->
+	</relic>
+	<relic id="36" grade="6"> <!-- Scarlet van Halisha Doll -->
+		<relicStat enchantLevel="0" skillId="50712" skillLevel="6" /> <!-- Scarlet van Halisha Doll Lv. 6 -->
+	</relic>
+	<relic id="37" grade="1"> <!-- Anakim Doll -->
+		<relicStat enchantLevel="0" skillId="50713" skillLevel="1" /> <!-- Anakim Doll Lv. 1 -->
+	</relic>
+	<relic id="38" grade="2"> <!-- Anakim Doll -->
+		<relicStat enchantLevel="0" skillId="50713" skillLevel="2" /> <!-- Anakim Doll Lv. 2 -->
+	</relic>
+	<relic id="39" grade="3"> <!-- Anakim Doll -->
+		<relicStat enchantLevel="0" skillId="50713" skillLevel="3" /> <!-- Anakim Doll Lv. 3 -->
+	</relic>
+	<relic id="40" grade="4"> <!-- Anakim Doll -->
+		<relicStat enchantLevel="0" skillId="50713" skillLevel="4" /> <!-- Anakim Doll Lv. 4 -->
+	</relic>
+	<relic id="41" grade="5"> <!-- Anakim Doll -->
+		<relicStat enchantLevel="0" skillId="50713" skillLevel="5" /> <!-- Anakim Doll Lv. 5 -->
+	</relic>
+	<relic id="42" grade="6"> <!-- Anakim Doll -->
+		<relicStat enchantLevel="0" skillId="50713" skillLevel="6" /> <!-- Anakim Doll Lv. 6 -->
+	</relic>
+	<relic id="43" grade="1"> <!-- Lilith Doll -->
+		<relicStat enchantLevel="0" skillId="50714" skillLevel="1" /> <!-- Lilith Doll Lv. 1 -->
+	</relic>
+	<relic id="44" grade="2"> <!-- Lilith Doll -->
+		<relicStat enchantLevel="0" skillId="50714" skillLevel="2" /> <!-- Lilith Doll Lv. 2 -->
+	</relic>
+	<relic id="45" grade="3"> <!-- Lilith Doll -->
+		<relicStat enchantLevel="0" skillId="50714" skillLevel="3" /> <!-- Lilith Doll Lv. 3 -->
+	</relic>
+	<relic id="46" grade="4"> <!-- Lilith Doll -->
+		<relicStat enchantLevel="0" skillId="50714" skillLevel="4" /> <!-- Lilith Doll Lv. 4 -->
+	</relic>
+	<relic id="47" grade="5"> <!-- Lilith Doll -->
+		<relicStat enchantLevel="0" skillId="50714" skillLevel="5" /> <!-- Lilith Doll Lv. 5 -->
+	</relic>
+	<relic id="48" grade="6"> <!-- Lilith Doll -->
+		<relicStat enchantLevel="0" skillId="50714" skillLevel="6" /> <!-- Lilith Doll Lv. 6 -->
+	</relic>
+	<relic id="49" grade="1"> <!-- Queen Ant Doll -->
+		<relicStat enchantLevel="0" skillId="39303" skillLevel="1" /> <!-- Queen Ant Doll Lv. 1 -->
+	</relic>
+	<relic id="50" grade="2"> <!-- Queen Ant Doll -->
+		<relicStat enchantLevel="0" skillId="39303" skillLevel="2" /> <!-- Queen Ant Doll Lv. 2 -->
+	</relic>
+	<relic id="51" grade="3"> <!-- Queen Ant Doll -->
+		<relicStat enchantLevel="0" skillId="39303" skillLevel="3" /> <!-- Queen Ant Doll Lv. 3 -->
+	</relic>
+	<relic id="52" grade="4"> <!-- Queen Ant Doll -->
+		<relicStat enchantLevel="0" skillId="39303" skillLevel="4" /> <!-- Queen Ant Doll Lv. 4 -->
+	</relic>
+	<relic id="53" grade="5"> <!-- Queen Ant Doll -->
+		<relicStat enchantLevel="0" skillId="39303" skillLevel="5" /> <!-- Queen Ant Doll Lv. 5 -->
+	</relic>
+	<relic id="54" grade="6"> <!-- Queen Ant Doll -->
+		<relicStat enchantLevel="0" skillId="39303" skillLevel="6" /> <!-- Queen Ant Doll Lv. 6 -->
+	</relic>
+	<relic id="55" grade="1"> <!-- Orfen Doll -->
+		<relicStat enchantLevel="0" skillId="39304" skillLevel="1" /> <!-- Orfen Doll Lv. 1 -->
+	</relic>
+	<relic id="56" grade="2"> <!-- Orfen Doll -->
+		<relicStat enchantLevel="0" skillId="39304" skillLevel="2" /> <!-- Orfen Doll Lv. 2 -->
+	</relic>
+	<relic id="57" grade="3"> <!-- Orfen Doll -->
+		<relicStat enchantLevel="0" skillId="39304" skillLevel="3" /> <!-- Orfen Doll Lv. 3 -->
+	</relic>
+	<relic id="58" grade="4"> <!-- Orfen Doll -->
+		<relicStat enchantLevel="0" skillId="39304" skillLevel="4" /> <!-- Orfen Doll Lv. 4 -->
+	</relic>
+	<relic id="59" grade="5"> <!-- Orfen Doll -->
+		<relicStat enchantLevel="0" skillId="39304" skillLevel="5" /> <!-- Orfen Doll Lv. 5 -->
+	</relic>
+	<relic id="60" grade="6"> <!-- Orfen Doll -->
+		<relicStat enchantLevel="0" skillId="39304" skillLevel="6" /> <!-- Orfen Doll Lv. 6 -->
+	</relic>
+	<relic id="61" grade="1"> <!-- Core Doll -->
+		<relicStat enchantLevel="0" skillId="50464" skillLevel="1" /> <!-- Core Doll Lv. 1 -->
+	</relic>
+	<relic id="62" grade="2"> <!-- Core Doll -->
+		<relicStat enchantLevel="0" skillId="50464" skillLevel="2" /> <!-- Core Doll Lv. 2 -->
+	</relic>
+	<relic id="63" grade="3"> <!-- Core Doll -->
+		<relicStat enchantLevel="0" skillId="50464" skillLevel="3" /> <!-- Core Doll Lv. 3 -->
+	</relic>
+	<relic id="64" grade="4"> <!-- Core Doll -->
+		<relicStat enchantLevel="0" skillId="50464" skillLevel="4" /> <!-- Core Doll Lv. 4 -->
+	</relic>
+	<relic id="65" grade="5"> <!-- Core Doll -->
+		<relicStat enchantLevel="0" skillId="50464" skillLevel="5" /> <!-- Core Doll Lv. 5 -->
+	</relic>
+	<relic id="66" grade="6"> <!-- Core Doll -->
+		<relicStat enchantLevel="0" skillId="50464" skillLevel="6" /> <!-- Core Doll Lv. 6 -->
+	</relic>
+	<relic id="67" grade="1"> <!-- Zaken Doll -->
+		<relicStat enchantLevel="0" skillId="50463" skillLevel="1" /> <!-- Zaken Doll Lv. 1 -->
+	</relic>
+	<relic id="68" grade="2"> <!-- Zaken Doll -->
+		<relicStat enchantLevel="0" skillId="50463" skillLevel="2" /> <!-- Zaken Doll Lv. 2 -->
+	</relic>
+	<relic id="69" grade="3"> <!-- Zaken Doll -->
+		<relicStat enchantLevel="0" skillId="50463" skillLevel="3" /> <!-- Zaken Doll Lv. 3 -->
+	</relic>
+	<relic id="70" grade="4"> <!-- Zaken Doll -->
+		<relicStat enchantLevel="0" skillId="50463" skillLevel="4" /> <!-- Zaken Doll Lv. 4 -->
+	</relic>
+	<relic id="71" grade="5"> <!-- Zaken Doll -->
+		<relicStat enchantLevel="0" skillId="50463" skillLevel="5" /> <!-- Zaken Doll Lv. 5 -->
+	</relic>
+	<relic id="72" grade="6"> <!-- Zaken Doll -->
+		<relicStat enchantLevel="0" skillId="50463" skillLevel="6" /> <!-- Zaken Doll Lv. 6 -->
+	</relic>
+	<relic id="73" grade="1"> <!-- Frintezza Doll -->
+		<relicStat enchantLevel="0" skillId="51297" skillLevel="1" /> <!-- Frintezza Doll Lv. 1 -->
+	</relic>
+	<relic id="74" grade="2"> <!-- Frintezza Doll -->
+		<relicStat enchantLevel="0" skillId="51297" skillLevel="2" /> <!-- Frintezza Doll Lv. 2 -->
+	</relic>
+	<relic id="75" grade="3"> <!-- Frintezza Doll -->
+		<relicStat enchantLevel="0" skillId="51297" skillLevel="3" /> <!-- Frintezza Doll Lv. 3 -->
+	</relic>
+	<relic id="76" grade="4"> <!-- Frintezza Doll -->
+		<relicStat enchantLevel="0" skillId="51297" skillLevel="4" /> <!-- Frintezza Doll Lv. 4 -->
+	</relic>
+	<relic id="77" grade="5"> <!-- Frintezza Doll -->
+		<relicStat enchantLevel="0" skillId="51297" skillLevel="5" /> <!-- Frintezza Doll Lv. 5 -->
+	</relic>
+	<relic id="78" grade="6"> <!-- Frintezza Doll -->
+		<relicStat enchantLevel="0" skillId="51297" skillLevel="6" /> <!-- Frintezza Doll Lv. 6 -->
+	</relic>
+	<relic id="79" grade="1"> <!-- Baium Doll -->
+		<relicStat enchantLevel="0" skillId="39302" skillLevel="1" /> <!-- Baium Doll Lv. 1 -->
+	</relic>
+	<relic id="80" grade="2"> <!-- Baium Doll -->
+		<relicStat enchantLevel="0" skillId="39302" skillLevel="2" /> <!-- Baium Doll Lv. 2 -->
+	</relic>
+	<relic id="81" grade="3"> <!-- Baium Doll -->
+		<relicStat enchantLevel="0" skillId="39302" skillLevel="3" /> <!-- Baium Doll Lv. 3 -->
+	</relic>
+	<relic id="82" grade="4"> <!-- Baium Doll -->
+		<relicStat enchantLevel="0" skillId="39302" skillLevel="4" /> <!-- Baium Doll Lv. 4 -->
+	</relic>
+	<relic id="83" grade="5"> <!-- Baium Doll -->
+		<relicStat enchantLevel="0" skillId="39302" skillLevel="5" /> <!-- Baium Doll Lv. 5 -->
+	</relic>
+	<relic id="84" grade="6"> <!-- Baium Doll -->
+		<relicStat enchantLevel="0" skillId="39302" skillLevel="6" /> <!-- Baium Doll Lv. 6 -->
+	</relic>
+	<relic id="85" grade="1"> <!-- Antharas Doll -->
+		<relicStat enchantLevel="0" skillId="50554" skillLevel="1" /> <!-- Antharas Doll Lv. 1 -->
+	</relic>
+	<relic id="86" grade="2"> <!-- Antharas Doll -->
+		<relicStat enchantLevel="0" skillId="50554" skillLevel="2" /> <!-- Antharas Doll Lv. 2 -->
+	</relic>
+	<relic id="87" grade="3"> <!-- Antharas Doll -->
+		<relicStat enchantLevel="0" skillId="50554" skillLevel="3" /> <!-- Antharas Doll Lv. 3 -->
+	</relic>
+	<relic id="88" grade="4"> <!-- Antharas Doll -->
+		<relicStat enchantLevel="0" skillId="50554" skillLevel="4" /> <!-- Antharas Doll Lv. 4 -->
+	</relic>
+	<relic id="89" grade="5"> <!-- Antharas Doll -->
+		<relicStat enchantLevel="0" skillId="50554" skillLevel="5" /> <!-- Antharas Doll Lv. 5 -->
+	</relic>
+	<relic id="90" grade="6"> <!-- Antharas Doll -->
+		<relicStat enchantLevel="0" skillId="50554" skillLevel="6" /> <!-- Antharas Doll Lv. 6 -->
+	</relic>
+	<relic id="91" grade="2"> <!-- Glakias Doll -->
+		<relicStat enchantLevel="0" skillId="50579" skillLevel="1" /> <!-- Glakias Doll Lv. 1 -->
+	</relic>
+	<relic id="92" grade="3"> <!-- Glakias Doll -->
+		<relicStat enchantLevel="0" skillId="50579" skillLevel="2" /> <!-- Glakias Doll Lv. 2 -->
+	</relic>
+	<relic id="93" grade="4"> <!-- Glakias Doll -->
+		<relicStat enchantLevel="0" skillId="50579" skillLevel="3" /> <!-- Glakias Doll Lv. 3 -->
+	</relic>
+	<relic id="94" grade="5"> <!-- Glakias Doll -->
+		<relicStat enchantLevel="0" skillId="50579" skillLevel="4" /> <!-- Glakias Doll Lv. 4 -->
+	</relic>
+	<relic id="95" grade="6"> <!-- Glakias Doll -->
+		<relicStat enchantLevel="0" skillId="50579" skillLevel="5" /> <!-- Glakias Doll Lv. 5 -->
+	</relic>
+	<relic id="96" grade="7"> <!-- Glakias Doll -->
+		<relicStat enchantLevel="0" skillId="50579" skillLevel="6" /> <!-- Glakias Doll Lv. 6 -->
+		<relicStat enchantLevel="1" skillId="50579" skillLevel="7" /> <!-- +1 Glakias Doll -->
+		<relicStat enchantLevel="2" skillId="50579" skillLevel="8" /> <!-- +2 Glakias Doll -->
+		<relicStat enchantLevel="3" skillId="50579" skillLevel="9" /> <!-- +3 Glakias Doll -->
+	</relic>
+	<relic id="97" grade="2"> <!-- Behemoth Doll -->
+		<relicStat enchantLevel="0" skillId="50578" skillLevel="1" /> <!-- Behemoth Doll Lv. 1 -->
+	</relic>
+	<relic id="98" grade="3"> <!-- Behemoth Doll -->
+		<relicStat enchantLevel="0" skillId="50578" skillLevel="2" /> <!-- Behemoth Doll Lv. 2 -->
+	</relic>
+	<relic id="99" grade="4"> <!-- Behemoth Doll -->
+		<relicStat enchantLevel="0" skillId="50578" skillLevel="3" /> <!-- Behemoth Doll Lv. 3 -->
+	</relic>
+	<relic id="100" grade="5"> <!-- Behemoth Doll -->
+		<relicStat enchantLevel="0" skillId="50578" skillLevel="4" /> <!-- Behemoth Doll Lv. 4 -->
+	</relic>
+	<relic id="101" grade="6"> <!-- Behemoth Doll -->
+		<relicStat enchantLevel="0" skillId="50578" skillLevel="5" /> <!-- Behemoth Doll Lv. 5 -->
+	</relic>
+	<relic id="102" grade="7"> <!-- Behemoth Doll -->
+		<relicStat enchantLevel="0" skillId="50578" skillLevel="6" /> <!-- Behemoth Doll Lv. 6 -->
+		<relicStat enchantLevel="1" skillId="50578" skillLevel="7" /> <!-- +1 Behemoth Doll -->
+		<relicStat enchantLevel="2" skillId="50578" skillLevel="8" /> <!-- +2 Behemoth Doll -->
+		<relicStat enchantLevel="3" skillId="50578" skillLevel="9" /> <!-- +3 Behemoth Doll -->
+	</relic>
+	<relic id="103" grade="2"> <!-- Andreas van Halter Doll -->
+		<relicStat enchantLevel="0" skillId="50627" skillLevel="1" /> <!-- Andreas van Halter Doll Lv. 1 -->
+	</relic>
+	<relic id="104" grade="3"> <!-- Andreas van Halter Doll -->
+		<relicStat enchantLevel="0" skillId="50627" skillLevel="2" /> <!-- Andreas van Halter Doll Lv. 2 -->
+	</relic>
+	<relic id="105" grade="4"> <!-- Andreas van Halter Doll -->
+		<relicStat enchantLevel="0" skillId="50627" skillLevel="3" /> <!-- Andreas van Halter Doll Lv. 3 -->
+	</relic>
+	<relic id="106" grade="5"> <!-- Andreas van Halter Doll -->
+		<relicStat enchantLevel="0" skillId="50627" skillLevel="4" /> <!-- Andreas van Halter Doll Lv. 4 -->
+	</relic>
+	<relic id="107" grade="6"> <!-- Andreas van Halter Doll -->
+		<relicStat enchantLevel="0" skillId="50627" skillLevel="5" /> <!-- Andreas van Halter Doll Lv. 5 -->
+	</relic>
+	<relic id="108" grade="7"> <!-- Andreas van Halter Doll -->
+		<relicStat enchantLevel="0" skillId="50627" skillLevel="6" /> <!-- Andreas van Halter Doll Lv. 6 -->
+		<relicStat enchantLevel="1" skillId="50627" skillLevel="7" /> <!-- +1 Andreas van Halter Doll -->
+		<relicStat enchantLevel="2" skillId="50627" skillLevel="8" /> <!-- +2 Andreas van Halter Doll -->
+		<relicStat enchantLevel="3" skillId="50627" skillLevel="9" /> <!-- +3 Andreas van Halter Doll -->
+	</relic>
+	<relic id="109" grade="2"> <!-- Kelbim Doll -->
+		<relicStat enchantLevel="0" skillId="50688" skillLevel="1" /> <!-- Kelbim Doll Lv. 1 -->
+	</relic>
+	<relic id="110" grade="3"> <!-- Kelbim Doll -->
+		<relicStat enchantLevel="0" skillId="50688" skillLevel="2" /> <!-- Kelbim Doll Lv. 2 -->
+	</relic>
+	<relic id="111" grade="4"> <!-- Kelbim Doll -->
+		<relicStat enchantLevel="0" skillId="50688" skillLevel="3" /> <!-- Kelbim Doll Lv. 3 -->
+	</relic>
+	<relic id="112" grade="5"> <!-- Kelbim Doll -->
+		<relicStat enchantLevel="0" skillId="50688" skillLevel="4" /> <!-- Kelbim Doll Lv. 4 -->
+	</relic>
+	<relic id="113" grade="6"> <!-- Kelbim Doll -->
+		<relicStat enchantLevel="0" skillId="50688" skillLevel="5" /> <!-- Kelbim Doll Lv. 5 -->
+	</relic>
+	<relic id="114" grade="7"> <!-- Kelbim Doll -->
+		<relicStat enchantLevel="0" skillId="50688" skillLevel="6" /> <!-- Kelbim Doll Lv. 6 -->
+		<relicStat enchantLevel="1" skillId="50688" skillLevel="7" /> <!-- +1 Kelbim Doll -->
+		<relicStat enchantLevel="2" skillId="50688" skillLevel="8" /> <!-- +2 Kelbim Doll -->
+		<relicStat enchantLevel="3" skillId="50688" skillLevel="9" /> <!-- +3 Kelbim Doll -->
+	</relic>
+	<relic id="115" grade="2"> <!-- Ferion Doll -->
+		<relicStat enchantLevel="0" skillId="50715" skillLevel="1" /> <!-- Ferion Doll Lv. 1 -->
+	</relic>
+	<relic id="116" grade="3"> <!-- Ferion Doll -->
+		<relicStat enchantLevel="0" skillId="50715" skillLevel="2" /> <!-- Ferion Doll Lv. 2 -->
+	</relic>
+	<relic id="117" grade="4"> <!-- Ferion Doll -->
+		<relicStat enchantLevel="0" skillId="50715" skillLevel="3" /> <!-- Ferion Doll Lv. 3 -->
+	</relic>
+	<relic id="118" grade="5"> <!-- Ferion Doll -->
+		<relicStat enchantLevel="0" skillId="50715" skillLevel="4" /> <!-- Ferion Doll Lv. 4 -->
+	</relic>
+	<relic id="119" grade="6"> <!-- Ferion Doll -->
+		<relicStat enchantLevel="0" skillId="50715" skillLevel="5" /> <!-- Ferion Doll Lv. 5 -->
+	</relic>
+	<relic id="120" grade="7"> <!-- Ferion Doll -->
+		<relicStat enchantLevel="0" skillId="50715" skillLevel="6" /> <!-- Ferion Doll Lv. 6 -->
+		<relicStat enchantLevel="1" skillId="50715" skillLevel="7" /> <!-- +1 Ferion Doll -->
+		<relicStat enchantLevel="2" skillId="50715" skillLevel="8" /> <!-- +2 Ferion Doll -->
+		<relicStat enchantLevel="3" skillId="50715" skillLevel="9" /> <!-- +3 Ferion Doll -->
+	</relic>
+</list>

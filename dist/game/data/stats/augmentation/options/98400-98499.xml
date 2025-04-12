@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<option id="98400" name="option_id_98400">
+		<!-- Received Healing +4.1% -->
+		<effects>
+			<effect name="HealEffect">
+				<amount>4.1</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="98401" name="option_id_98401">
+		<!-- Received Healing +4.3% -->
+		<effects>
+			<effect name="HealEffect">
+				<amount>4.3</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="98402" name="option_id_98402">
+		<!-- Received Healing +5% -->
+		<effects>
+			<effect name="HealEffect">
+				<amount>5</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="98403" name="option_id_98403">
+		<!-- Acquired XP/ SP +2% -->
+		<effects>
+			<effect name="ExpModify">
+				<amount>2</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>2</amount>
+			</effect>
+		</effects>
+	</option>
+	<option id="98404" name="option_id_98404">
+		<!-- Acquired XP/ SP +3% -->
+		<effects>
+			<effect name="ExpModify">
+				<amount>3</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>3</amount>
+			</effect>
+		</effects>
+	</option>
+	<option id="98405" name="option_id_98405">
+		<!-- Acquired XP/ SP +7% -->
+		<effects>
+			<effect name="ExpModify">
+				<amount>7</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>7</amount>
+			</effect>
+		</effects>
+	</option>
+	<option id="98406" name="option_id_98406">
+		<!-- Acquired XP/ SP +7% -->
+		<effects>
+			<effect name="ExpModify">
+				<amount>7</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>7</amount>
+			</effect>
+		</effects>
+	</option>
+	<option id="98407" name="option_id_98407">
+		<!-- Acquired XP/ SP +10% -->
+		<effects>
+			<effect name="ExpModify">
+				<amount>10</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>10</amount>
+			</effect>
+		</effects>
+	</option>
+	<option id="98408" name="option_id_98408">
+		<!-- Acquired XP/ SP +4% -->
+		<effects>
+			<effect name="ExpModify">
+				<amount>4</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>4</amount>
+			</effect>
+		</effects>
+	</option>
+	<option id="98409" name="option_id_98409">
+		<passive_skill id="86071" level="1" /> <!-- Past Glory I -->
+	</option>
+	<option id="98410" name="option_id_98410">
+		<passive_skill id="86072" level="1" /> <!-- Past Glory II -->
+	</option>
+	<option id="98411" name="option_id_98411">
+		<passive_skill id="86073" level="1" /> <!-- Mark on History I -->
+	</option>
+	<option id="98412" name="option_id_98412">
+		<passive_skill id="86074" level="1" /> <!-- Mark on History II -->
+	</option>
+	<option id="98413" name="option_id_98413">
+		<passive_skill id="86075" level="1" /> <!-- Mark on History III -->
+	</option>
+	<option id="98414" name="option_id_98414">
+		<passive_skill id="86076" level="1" /> <!-- Learning New Things I -->
+	</option>
+	<option id="98415" name="option_id_98415">
+		<passive_skill id="86077" level="1" /> <!-- Learning New Things II -->
+	</option>
+	<option id="98416" name="option_id_98416">
+		<passive_skill id="86078" level="1" /> <!-- Generational Change I -->
+	</option>
+	<option id="98417" name="option_id_98417">
+		<passive_skill id="86079" level="1" /> <!-- Generational Change II -->
+	</option>
+</list>

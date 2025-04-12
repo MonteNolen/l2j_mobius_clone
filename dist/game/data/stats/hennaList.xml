@@ -1,0 +1,3049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/hennaList.xsd">
+	<henna dyeId="181" dyeItemId="49863" dyeName="Faded Best STR Pattern STR +1 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="1" con="-3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="182" dyeItemId="49864" dyeName="Faded Best STR Pattern STR +1 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="1" con="0" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="183" dyeItemId="49865" dyeName="Faded Best CON Pattern CON +1 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="184" dyeItemId="49866" dyeName="Faded Best CON Pattern CON +1 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="1" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="185" dyeItemId="49867" dyeName="Faded Best DEX Pattern DEX +1 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="0" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="186" dyeItemId="49868" dyeName="Faded Best DEX Pattern DEX +1 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-3" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="187" dyeItemId="49869" dyeName="Faded Best INT Pattern INT +1 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="1" men="-3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="188" dyeItemId="49870" dyeName="Faded Best INT Pattern INT +1 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="1" men="0" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="189" dyeItemId="49871" dyeName="Faded Best MEN Pattern MEN +1 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="190" dyeItemId="49872" dyeName="Faded Best MEN Pattern MEN +1 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="1" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="191" dyeItemId="49873" dyeName="Faded Best WIT Pattern WIT +1 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="0" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="192" dyeItemId="49874" dyeName="Faded Best WIT Pattern WIT +1 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-3" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="87000" l2coinfee="0" />
+		<cancel count="5" fee="17400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="193" dyeItemId="49875" dyeName="Faded Best STR Pattern STR +1 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="1" con="-2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="194" dyeItemId="49876" dyeName="Faded Best STR Pattern STR +1 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="1" con="0" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="195" dyeItemId="49877" dyeName="Faded Best CON Pattern CON +1 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="196" dyeItemId="49878" dyeName="Faded Best CON Pattern CON +1 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="1" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="197" dyeItemId="49879" dyeName="Faded Best DEX Pattern DEX +1 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="0" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="198" dyeItemId="49880" dyeName="Faded Best DEX Pattern DEX +1 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-2" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="199" dyeItemId="49881" dyeName="Faded Best INT Pattern INT +1 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="1" men="-2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="200" dyeItemId="49882" dyeName="Faded Best INT Pattern INT +1 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="1" men="0" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="201" dyeItemId="49883" dyeName="Faded Best MEN Pattern MEN +1 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="202" dyeItemId="49884" dyeName="Faded Best MEN Pattern MEN +1 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="1" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="203" dyeItemId="49885" dyeName="Faded Best WIT Pattern WIT +1 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="0" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="204" dyeItemId="49886" dyeName="Faded Best WIT Pattern WIT +1 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-2" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="149000" l2coinfee="0" />
+		<cancel count="5" fee="29800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="205" dyeItemId="49887" dyeName="Faded Best STR Pattern STR +1 CON -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="1" con="-1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="206" dyeItemId="49888" dyeName="Faded Best STR Pattern STR +1 DEX -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="1" con="0" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="207" dyeItemId="49889" dyeName="Faded Best CON Pattern CON +1 STR -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-1" con="1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="208" dyeItemId="49890" dyeName="Faded Best CON Pattern CON +1 DEX -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="1" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="209" dyeItemId="49891" dyeName="Faded Best DEX Pattern DEX +1 STR -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-1" con="0" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="210" dyeItemId="49892" dyeName="Faded Best DEX Pattern DEX +1 CON -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-1" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="211" dyeItemId="49893" dyeName="Faded Best INT Pattern INT +1 MEN -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="1" men="-1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="212" dyeItemId="49894" dyeName="Faded Best INT Pattern INT +1 WIT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="1" men="0" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="213" dyeItemId="49895" dyeName="Faded Best MEN Pattern MEN +1 INT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-1" men="1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="214" dyeItemId="49896" dyeName="Faded Best MEN Pattern MEN +1 WIT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="1" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="215" dyeItemId="49897" dyeName="Faded Best WIT Pattern WIT +1 INT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-1" men="0" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="216" dyeItemId="49898" dyeName="Faded Best WIT Pattern WIT +1 MEN -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-1" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="176000" l2coinfee="0" />
+		<cancel count="5" fee="35200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="217" dyeItemId="49899" dyeName="Faded Best STR Pattern STR +2 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="2" con="-3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="218" dyeItemId="49900" dyeName="Faded Best STR Pattern STR +2 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="2" con="0" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="219" dyeItemId="49901" dyeName="Faded Best CON Pattern CON +2 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="220" dyeItemId="49902" dyeName="Faded Best CON Pattern CON +2 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="2" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="221" dyeItemId="49903" dyeName="Faded Best DEX Pattern DEX +2 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="0" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="222" dyeItemId="49904" dyeName="Faded Best DEX Pattern DEX +2 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-3" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="223" dyeItemId="49905" dyeName="Faded Best INT Pattern INT +2 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="2" men="-3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="224" dyeItemId="49906" dyeName="Faded Best INT Pattern INT +2 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="2" men="0" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="225" dyeItemId="49907" dyeName="Faded Best MEN Pattern MEN +2 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="226" dyeItemId="49908" dyeName="Faded Best MEN Pattern MEN +2 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="2" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="227" dyeItemId="49909" dyeName="Faded Best WIT Pattern WIT +2 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="0" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="228" dyeItemId="49910" dyeName="Faded Best WIT Pattern WIT +2 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-3" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="190000" l2coinfee="0" />
+		<cancel count="5" fee="38000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="229" dyeItemId="49911" dyeName="Faded Best STR Pattern STR +2 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="2" con="-2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="230" dyeItemId="49912" dyeName="Faded Best STR Pattern STR +2 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="2" con="0" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="231" dyeItemId="49913" dyeName="Faded Best CON Pattern CON +2 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="232" dyeItemId="49914" dyeName="Faded Best CON Pattern CON +2 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="2" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="233" dyeItemId="49915" dyeName="Faded Best DEX Pattern DEX +2 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="0" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="234" dyeItemId="49916" dyeName="Faded Best DEX Pattern DEX +2 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-2" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="235" dyeItemId="49917" dyeName="Faded Best INT Pattern INT +2 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="2" men="-2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="236" dyeItemId="49918" dyeName="Faded Best INT Pattern INT +2 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="2" men="0" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="237" dyeItemId="49919" dyeName="Faded Best MEN Pattern MEN +2 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="238" dyeItemId="49920" dyeName="Faded Best MEN Pattern MEN +2 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="2" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="239" dyeItemId="49921" dyeName="Faded Best WIT Pattern WIT +2 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="0" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="240" dyeItemId="49922" dyeName="Faded Best WIT Pattern WIT +2 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-2" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="206000" l2coinfee="0" />
+		<cancel count="5" fee="41200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="241" dyeItemId="49923" dyeName="Faded Best STR Pattern STR +2 CON -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="2" con="-1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="242" dyeItemId="49924" dyeName="Faded Best STR Pattern STR +2 DEX -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="2" con="0" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="243" dyeItemId="49925" dyeName="Faded Best CON Pattern CON +2 STR -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-1" con="2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="244" dyeItemId="49926" dyeName="Faded Best CON Pattern CON +2 DEX -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="2" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="245" dyeItemId="49927" dyeName="Faded Best DEX Pattern DEX +2 STR -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-1" con="0" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="246" dyeItemId="49928" dyeName="Faded Best DEX Pattern DEX +2 CON -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-1" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="247" dyeItemId="49929" dyeName="Faded Best INT Pattern INT +2 MEN -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="2" men="-1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="248" dyeItemId="49930" dyeName="Faded Best INT Pattern INT +2 WIT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="2" men="0" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="249" dyeItemId="49931" dyeName="Faded Best MEN Pattern MEN +2 INT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-1" men="2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="250" dyeItemId="49932" dyeName="Faded Best MEN Pattern MEN +2 WIT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="2" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="251" dyeItemId="49933" dyeName="Faded Best WIT Pattern WIT +2 INT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-1" men="0" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="252" dyeItemId="49934" dyeName="Faded Best WIT Pattern WIT +2 MEN -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-1" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="258000" l2coinfee="0" />
+		<cancel count="5" fee="51600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="253" dyeItemId="49935" dyeName="Faded Best STR Pattern STR +3 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="-3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="254" dyeItemId="49936" dyeName="Faded Best STR Pattern STR +3 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="0" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="255" dyeItemId="49937" dyeName="Faded Best CON Pattern CON +3 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="256" dyeItemId="49938" dyeName="Faded Best CON Pattern CON +3 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="3" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="257" dyeItemId="49939" dyeName="Faded Best DEX Pattern DEX +3 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="0" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="258" dyeItemId="49940" dyeName="Faded Best DEX Pattern DEX +3 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-3" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="259" dyeItemId="49941" dyeName="Faded Best INT Pattern INT +3 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="-3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="260" dyeItemId="49942" dyeName="Faded Best INT Pattern INT +3 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="0" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="261" dyeItemId="49943" dyeName="Faded Best MEN Pattern MEN +3 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="262" dyeItemId="49944" dyeName="Faded Best MEN Pattern MEN +3 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="3" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="263" dyeItemId="49945" dyeName="Faded Best WIT Pattern WIT +3 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="0" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="264" dyeItemId="49946" dyeName="Faded Best WIT Pattern WIT +3 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-3" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="387000" l2coinfee="0" />
+		<cancel count="5" fee="77400" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="265" dyeItemId="49947" dyeName="Faded Best STR Pattern STR +3 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="-2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="266" dyeItemId="49948" dyeName="Faded Best STR Pattern STR +3 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="0" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="267" dyeItemId="49949" dyeName="Faded Best CON Pattern CON +3 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="268" dyeItemId="49950" dyeName="Faded Best CON Pattern CON +3 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="3" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="269" dyeItemId="49951" dyeName="Faded Best DEX Pattern DEX +3 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="0" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="270" dyeItemId="49952" dyeName="Faded Best DEX Pattern DEX +3 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-2" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="271" dyeItemId="49953" dyeName="Faded Best INT Pattern INT +3 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="-2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="272" dyeItemId="49954" dyeName="Faded Best INT Pattern INT +3 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="0" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="273" dyeItemId="49955" dyeName="Faded Best MEN Pattern MEN +3 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="274" dyeItemId="49956" dyeName="Faded Best MEN Pattern MEN +3 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="3" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="275" dyeItemId="49957" dyeName="Faded Best WIT Pattern WIT +3 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="0" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="276" dyeItemId="49958" dyeName="Faded Best WIT Pattern WIT +3 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-2" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="628000" l2coinfee="0" />
+		<cancel count="5" fee="125600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="277" dyeItemId="49959" dyeName="Faded Best STR Pattern STR +3 CON -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="-1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="278" dyeItemId="49960" dyeName="Faded Best STR Pattern STR +3 DEX -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="0" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="279" dyeItemId="49961" dyeName="Faded Best CON Pattern CON +3 STR -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-1" con="3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="280" dyeItemId="49962" dyeName="Faded Best CON Pattern CON +3 DEX -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="3" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="281" dyeItemId="49963" dyeName="Faded Best DEX Pattern DEX +3 STR -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-1" con="0" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="282" dyeItemId="49964" dyeName="Faded Best DEX Pattern DEX +3 CON -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-1" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="283" dyeItemId="49965" dyeName="Faded Best INT Pattern INT +3 MEN -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="-1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="284" dyeItemId="49966" dyeName="Faded Best INT Pattern INT +3 WIT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="0" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="285" dyeItemId="49967" dyeName="Faded Best MEN Pattern MEN +3 INT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-1" men="3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="286" dyeItemId="49968" dyeName="Faded Best MEN Pattern MEN +3 WIT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="3" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="287" dyeItemId="49969" dyeName="Faded Best WIT Pattern WIT +3 INT -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-1" men="0" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="288" dyeItemId="49970" dyeName="Faded Best WIT Pattern WIT +3 MEN -1" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-1" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="289" dyeItemId="49971" dyeName="Faded Best STR Pattern STR +4 CON -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="-4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="290" dyeItemId="49972" dyeName="Faded Best STR Pattern STR +4 DEX -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="0" dex="-4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="291" dyeItemId="49973" dyeName="Faded Best CON Pattern CON +4 STR -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-4" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="292" dyeItemId="49974" dyeName="Faded Best CON Pattern CON +4 DEX -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="4" dex="-4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="293" dyeItemId="49975" dyeName="Faded Best DEX Pattern DEX +4 STR -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-4" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="294" dyeItemId="49976" dyeName="Faded Best DEX Pattern DEX +4 CON -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-4" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="295" dyeItemId="49977" dyeName="Faded Best INT Pattern INT +4 MEN -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="-4" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="296" dyeItemId="49978" dyeName="Faded Best INT Pattern INT +4 WIT -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="-4" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="297" dyeItemId="49979" dyeName="Faded Best MEN Pattern MEN +4 INT -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-4" men="4" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="298" dyeItemId="49980" dyeName="Faded Best MEN Pattern MEN +4 WIT -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="-4" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="299" dyeItemId="49981" dyeName="Faded Best WIT Pattern WIT +4 INT -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-4" men="0" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="300" dyeItemId="49982" dyeName="Faded Best WIT Pattern WIT +4 MEN -4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-4" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="923000" l2coinfee="0" />
+		<cancel count="5" fee="184600" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="301" dyeItemId="49983" dyeName="Faded Best STR Pattern STR +4 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="-3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="302" dyeItemId="49984" dyeName="Faded Best STR Pattern STR +4 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="0" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="303" dyeItemId="49985" dyeName="Faded Best CON Pattern CON +4 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="304" dyeItemId="49986" dyeName="Faded Best CON Pattern CON +4 DEX -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="4" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="305" dyeItemId="49987" dyeName="Faded Best DEX Pattern DEX +4 STR -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-3" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="306" dyeItemId="49988" dyeName="Faded Best DEX Pattern DEX +4 CON -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-3" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="307" dyeItemId="49989" dyeName="Faded Best INT Pattern INT +4 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="-3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="308" dyeItemId="49990" dyeName="Faded Best INT Pattern INT +4 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="309" dyeItemId="49991" dyeName="Faded Best MEN Pattern MEN +4 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="4" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="310" dyeItemId="49992" dyeName="Faded Best MEN Pattern MEN +4 WIT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="311" dyeItemId="49993" dyeName="Faded Best WIT Pattern WIT +4 INT -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-3" men="0" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="312" dyeItemId="49994" dyeName="Faded Best WIT Pattern WIT +4 MEN -3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-3" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="1085000" l2coinfee="0" />
+		<cancel count="5" fee="217000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="313" dyeItemId="49995" dyeName="Faded Best STR Pattern STR +4 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="-2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="314" dyeItemId="49996" dyeName="Faded Best STR Pattern STR +4 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="0" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="315" dyeItemId="49997" dyeName="Faded Best CON Pattern CON +4 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="316" dyeItemId="49998" dyeName="Faded Best CON Pattern CON +4 DEX -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="4" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="317" dyeItemId="49999" dyeName="Faded Best DEX Pattern DEX +4 STR -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="-2" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="318" dyeItemId="90000" dyeName="Faded Best DEX Pattern DEX +4 CON -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="-2" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="319" dyeItemId="90001" dyeName="Faded Best INT Pattern INT +4 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="-2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="320" dyeItemId="90002" dyeName="Faded Best INT Pattern INT +4 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="321" dyeItemId="90003" dyeName="Faded Best MEN Pattern MEN +4 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="4" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="322" dyeItemId="90004" dyeName="Faded Best MEN Pattern MEN +4 WIT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="323" dyeItemId="90005" dyeName="Faded Best WIT Pattern WIT +4 INT -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="-2" men="0" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="324" dyeItemId="90006" dyeName="Faded Best WIT Pattern WIT +4 MEN -2" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="-2" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="1256000" l2coinfee="0" />
+		<cancel count="5" fee="251200" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="325" dyeItemId="93968" dyeName="Faded Best STR Pattern STR +3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="3" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="326" dyeItemId="93969" dyeName="Faded Best CON Pattern CON +3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="327" dyeItemId="93970" dyeName="Faded Best DEX Pattern DEX +3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="328" dyeItemId="93971" dyeName="Faded Best INT Pattern INT +3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="3" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="329" dyeItemId="93972" dyeName="Faded Best MEN Pattern MEN +3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="330" dyeItemId="93973" dyeName="Faded Best WIT Pattern WIT +3" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="789000" l2coinfee="0" />
+		<cancel count="5" fee="157800" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="331" dyeItemId="94853" dyeName="Faded Legendary STR Pattern STR +4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="20000000" l2coinfee="0" />
+		<cancel count="1" fee="50000000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="332" dyeItemId="94854" dyeName="Faded Legendary CON Pattern CON +4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="20000000" l2coinfee="0" />
+		<cancel count="1" fee="50000000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="333" dyeItemId="94855" dyeName="Faded Legendary DEX Pattern DEX +4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="20000000" l2coinfee="0" />
+		<cancel count="1" fee="50000000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="334" dyeItemId="94856" dyeName="Faded Legendary INT Pattern INT +4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="20000000" l2coinfee="0" />
+		<cancel count="1" fee="50000000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="335" dyeItemId="94857" dyeName="Faded Legendary MEN Pattern MEN +4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="20000000" l2coinfee="0" />
+		<cancel count="1" fee="50000000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="336" dyeItemId="94858" dyeName="Faded Legendary WIT Pattern WIT +4" patternLevel="0"> <!-- (Hidden power not applied) -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="20000000" l2coinfee="0" />
+		<cancel count="1" fee="50000000" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="337" dyeItemId="96617" dyeName="STR Pattern STR +1" patternLevel="0"> <!--  -->
+		<stats str="1" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83017" level="1" />
+	</henna>
+	<henna dyeId="338" dyeItemId="96355" dyeName="STR Pattern STR +2" patternLevel="1"> <!--  -->
+		<stats str="2" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83017" level="2" />
+	</henna>
+	<henna dyeId="339" dyeItemId="96356" dyeName="STR Pattern STR +3" patternLevel="2"> <!--  -->
+		<stats str="3" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83017" level="3" />
+	</henna>
+	<henna dyeId="340" dyeItemId="96357" dyeName="STR Pattern STR +4" patternLevel="3"> <!-- P. Atk. +25 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83017" level="4" />
+	</henna>
+	<henna dyeId="341" dyeItemId="96358" dyeName="STR Pattern STR +4" patternLevel="4"> <!-- P. Atk. +50 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83017" level="5" />
+	</henna>
+	<henna dyeId="342" dyeItemId="96359" dyeName="STR Pattern STR +4" patternLevel="5"> <!-- P. Atk. +75 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83017" level="6" />
+	</henna>
+	<henna dyeId="343" dyeItemId="96360" dyeName="STR Pattern STR +4" patternLevel="6"> <!-- P. Atk. +100 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83017" level="7" />
+	</henna>
+	<henna dyeId="344" dyeItemId="96361" dyeName="STR Pattern STR +4" patternLevel="7"> <!-- P. Atk. +125 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="8" />
+	</henna>
+	<henna dyeId="345" dyeItemId="96362" dyeName="STR Pattern STR +4" patternLevel="8"> <!-- P. Atk. +150 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="9" />
+	</henna>
+	<henna dyeId="346" dyeItemId="96363" dyeName="STR Pattern STR +4" patternLevel="9"> <!-- P. Atk. +175 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="10" />
+	</henna>
+	<henna dyeId="347" dyeItemId="96364" dyeName="STR Pattern STR +4" patternLevel="10"> <!-- P. Atk. +200 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="11" />
+	</henna>
+	<henna dyeId="348" dyeItemId="96365" dyeName="STR Pattern STR +5" patternLevel="11"> <!-- P. Atk. +225 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="12" />
+	</henna>
+	<henna dyeId="349" dyeItemId="96366" dyeName="STR Pattern STR +5" patternLevel="12"> <!-- P. Atk. +250 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="13" />
+	</henna>
+	<henna dyeId="350" dyeItemId="96367" dyeName="STR Pattern STR +5" patternLevel="13"> <!-- P. Atk. +275 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="14" />
+	</henna>
+	<henna dyeId="351" dyeItemId="96368" dyeName="STR Pattern STR +5" patternLevel="14"> <!-- P. Atk. +300 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="15" />
+	</henna>
+	<henna dyeId="352" dyeItemId="96369" dyeName="STR Pattern STR +5" patternLevel="15"> <!-- P. Atk. +325 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="16" />
+	</henna>
+	<henna dyeId="353" dyeItemId="96370" dyeName="STR Pattern STR +5" patternLevel="16"> <!-- P. Atk. +350, P. Skill Critical Rate +0.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="17" />
+	</henna>
+	<henna dyeId="354" dyeItemId="96371" dyeName="STR Pattern STR +5" patternLevel="17"> <!-- P. Atk. +375, P. Skill Critical Rate +1% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="18" />
+	</henna>
+	<henna dyeId="355" dyeItemId="96372" dyeName="STR Pattern STR +5" patternLevel="18"> <!-- P. Atk. +400, P. Skill Critical Rate +1.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="19" />
+	</henna>
+	<henna dyeId="356" dyeItemId="96373" dyeName="STR Pattern STR +5" patternLevel="19"> <!-- P. Atk. +425, P. Skill Critical Rate +2% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="20" />
+	</henna>
+	<henna dyeId="357" dyeItemId="96374" dyeName="STR Pattern STR +5" patternLevel="20"> <!-- P. Atk. +450, P. Skill Critical Rate +3% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="21" />
+	</henna>
+	<henna dyeId="358" dyeItemId="96618" dyeName="CON Pattern CON +1" patternLevel="0"> <!--  -->
+		<stats str="0" con="1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83018" level="1" />
+	</henna>
+	<henna dyeId="359" dyeItemId="96375" dyeName="CON Pattern CON +2" patternLevel="1"> <!--  -->
+		<stats str="0" con="2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83018" level="2" />
+	</henna>
+	<henna dyeId="360" dyeItemId="96376" dyeName="CON Pattern CON +3" patternLevel="2"> <!--  -->
+		<stats str="0" con="3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83018" level="3" />
+	</henna>
+	<henna dyeId="361" dyeItemId="96377" dyeName="CON Pattern CON +4" patternLevel="3"> <!-- P. Def. +32 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83018" level="4" />
+	</henna>
+	<henna dyeId="362" dyeItemId="96378" dyeName="CON Pattern CON +4" patternLevel="4"> <!-- P. Def. +65 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83018" level="5" />
+	</henna>
+	<henna dyeId="363" dyeItemId="96379" dyeName="CON Pattern CON +4" patternLevel="5"> <!-- P. Def. +97 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83018" level="6" />
+	</henna>
+	<henna dyeId="364" dyeItemId="96380" dyeName="CON Pattern CON +4" patternLevel="6"> <!-- P. Def. +130 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83018" level="7" />
+	</henna>
+	<henna dyeId="365" dyeItemId="96381" dyeName="CON Pattern CON +4" patternLevel="7"> <!-- P. Def. +162 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="8" />
+	</henna>
+	<henna dyeId="366" dyeItemId="96382" dyeName="CON Pattern CON +4" patternLevel="8"> <!-- P. Def. +195 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="9" />
+	</henna>
+	<henna dyeId="367" dyeItemId="96383" dyeName="CON Pattern CON +4" patternLevel="9"> <!-- P. Def. +227 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="10" />
+	</henna>
+	<henna dyeId="368" dyeItemId="96384" dyeName="CON Pattern CON +4" patternLevel="10"> <!-- P. Def. +260 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="11" />
+	</henna>
+	<henna dyeId="369" dyeItemId="96385" dyeName="CON Pattern CON +5" patternLevel="11"> <!-- P. Def. +292 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="12" />
+	</henna>
+	<henna dyeId="370" dyeItemId="96386" dyeName="CON Pattern CON +5" patternLevel="12"> <!-- P. Def. +325 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="13" />
+	</henna>
+	<henna dyeId="371" dyeItemId="96387" dyeName="CON Pattern CON +5" patternLevel="13"> <!-- P. Def. +357 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="14" />
+	</henna>
+	<henna dyeId="372" dyeItemId="96388" dyeName="CON Pattern CON +5" patternLevel="14"> <!-- P. Def. +390 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="15" />
+	</henna>
+	<henna dyeId="373" dyeItemId="96389" dyeName="CON Pattern CON +5" patternLevel="15"> <!-- P. Def. +422 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="16" />
+	</henna>
+	<henna dyeId="374" dyeItemId="96390" dyeName="CON Pattern CON +5" patternLevel="16"> <!-- P. Def. +455, received P. Skill Damage -1% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="17" />
+	</henna>
+	<henna dyeId="375" dyeItemId="96391" dyeName="CON Pattern CON +5" patternLevel="17"> <!-- P. Def. +487, received P. Skill Damage -1.5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="18" />
+	</henna>
+	<henna dyeId="376" dyeItemId="96392" dyeName="CON Pattern CON +5" patternLevel="18"> <!-- P. Def. +520, received P. Skill Damage -2% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="19" />
+	</henna>
+	<henna dyeId="377" dyeItemId="96393" dyeName="CON Pattern CON +5" patternLevel="19"> <!-- P. Def. +552, received P. Skill Damage -3% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="20" />
+	</henna>
+	<henna dyeId="378" dyeItemId="96394" dyeName="CON Pattern CON +5" patternLevel="20"> <!-- P. Def. +585, received P. Skill Damage -5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="21" />
+	</henna>
+	<henna dyeId="379" dyeItemId="96619" dyeName="DEX Pattern DEX +1" patternLevel="0"> <!--  -->
+		<stats str="0" con="0" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83019" level="1" />
+	</henna>
+	<henna dyeId="380" dyeItemId="96395" dyeName="DEX Pattern DEX +2" patternLevel="1"> <!--  -->
+		<stats str="0" con="0" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83019" level="2" />
+	</henna>
+	<henna dyeId="381" dyeItemId="96396" dyeName="DEX Pattern DEX +3" patternLevel="2"> <!--  -->
+		<stats str="0" con="0" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83019" level="3" />
+	</henna>
+	<henna dyeId="382" dyeItemId="96397" dyeName="DEX Pattern DEX +4" patternLevel="3"> <!-- Received P. Skill Critical Rate -0.4% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83019" level="4" />
+	</henna>
+	<henna dyeId="383" dyeItemId="96398" dyeName="DEX Pattern DEX +4" patternLevel="4"> <!-- Received P. Skill Critical Rate -0.8% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83019" level="5" />
+	</henna>
+	<henna dyeId="384" dyeItemId="96399" dyeName="DEX Pattern DEX +4" patternLevel="5"> <!-- Received P. Skill Critical Rate -1.2% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83019" level="6" />
+	</henna>
+	<henna dyeId="385" dyeItemId="96400" dyeName="DEX Pattern DEX +4" patternLevel="6"> <!-- Received P. Skill Critical Rate -1.6% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83019" level="7" />
+	</henna>
+	<henna dyeId="386" dyeItemId="96401" dyeName="DEX Pattern DEX +4" patternLevel="7"> <!-- Received P. Skill Critical Rate -2.0% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="8" />
+	</henna>
+	<henna dyeId="387" dyeItemId="96402" dyeName="DEX Pattern DEX +4" patternLevel="8"> <!-- Received P. Skill Critical Rate -2.4% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="9" />
+	</henna>
+	<henna dyeId="388" dyeItemId="96403" dyeName="DEX Pattern DEX +4" patternLevel="9"> <!-- Received P. Skill Critical Rate -2.8% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="10" />
+	</henna>
+	<henna dyeId="389" dyeItemId="96404" dyeName="DEX Pattern DEX +4" patternLevel="10"> <!-- Received P. Skill Critical Rate -3.2% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="11" />
+	</henna>
+	<henna dyeId="390" dyeItemId="96405" dyeName="DEX Pattern DEX +5" patternLevel="11"> <!-- Received P. Skill Critical Rate -3.6% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="12" />
+	</henna>
+	<henna dyeId="391" dyeItemId="96406" dyeName="DEX Pattern DEX +5" patternLevel="12"> <!-- Received P. Skill Critical Rate -4.0% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="13" />
+	</henna>
+	<henna dyeId="392" dyeItemId="96407" dyeName="DEX Pattern DEX +5" patternLevel="13"> <!-- Received P. Skill Critical Rate -4.4% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="14" />
+	</henna>
+	<henna dyeId="393" dyeItemId="96408" dyeName="DEX Pattern DEX +5" patternLevel="14"> <!-- Received P. Skill Critical Rate -4.8% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="15" />
+	</henna>
+	<henna dyeId="394" dyeItemId="96409" dyeName="DEX Pattern DEX +5" patternLevel="15"> <!-- Received P. Skill Critical Rate -5.2% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="16" />
+	</henna>
+	<henna dyeId="395" dyeItemId="96410" dyeName="DEX Pattern DEX +5" patternLevel="16"> <!-- Received P. Skill Critical Rate -5.6%, Soulshot damage +1% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="17" />
+	</henna>
+	<henna dyeId="396" dyeItemId="96411" dyeName="DEX Pattern DEX +5" patternLevel="17"> <!-- Received P. Skill Critical Rate -6.0%, Soulshot damage +1.5% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="18" />
+	</henna>
+	<henna dyeId="397" dyeItemId="96412" dyeName="DEX Pattern DEX +5" patternLevel="18"> <!-- Received P. Skill Critical Rate -6.4%, Soulshot damage +2% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="19" />
+	</henna>
+	<henna dyeId="398" dyeItemId="96413" dyeName="DEX Pattern DEX +5" patternLevel="19"> <!-- Received P. Skill Critical Rate -6.8%, Soulshot damage +3% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="20" />
+	</henna>
+	<henna dyeId="399" dyeItemId="96414" dyeName="DEX Pattern DEX +5" patternLevel="20"> <!-- Received P. Skill Critical Rate -7.2%, Soulshot damage +4% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="21" />
+	</henna>
+	<henna dyeId="400" dyeItemId="96620" dyeName="INT Pattern INT +1" patternLevel="0"> <!--  -->
+		<stats str="0" con="0" dex="0" int="1" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83020" level="1" />
+	</henna>
+	<henna dyeId="401" dyeItemId="96415" dyeName="INT Pattern INT +2" patternLevel="1"> <!--  -->
+		<stats str="0" con="0" dex="0" int="2" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83020" level="2" />
+	</henna>
+	<henna dyeId="402" dyeItemId="96416" dyeName="INT Pattern INT +3" patternLevel="2"> <!--  -->
+		<stats str="0" con="0" dex="0" int="3" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83020" level="3" />
+	</henna>
+	<henna dyeId="403" dyeItemId="96417" dyeName="INT Pattern INT +4" patternLevel="3"> <!-- M. Atk. +25 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83020" level="4" />
+	</henna>
+	<henna dyeId="404" dyeItemId="96418" dyeName="INT Pattern INT +4" patternLevel="4"> <!-- M. Atk. +50 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83020" level="5" />
+	</henna>
+	<henna dyeId="405" dyeItemId="96419" dyeName="INT Pattern INT +4" patternLevel="5"> <!-- M. Atk. +75 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83020" level="6" />
+	</henna>
+	<henna dyeId="406" dyeItemId="96420" dyeName="INT Pattern INT +4" patternLevel="6"> <!-- M. Atk. +100 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83020" level="7" />
+	</henna>
+	<henna dyeId="407" dyeItemId="96421" dyeName="INT Pattern INT +4" patternLevel="7"> <!-- M. Atk. +125 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="8" />
+	</henna>
+	<henna dyeId="408" dyeItemId="96422" dyeName="INT Pattern INT +4" patternLevel="8"> <!-- M. Atk. +150 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="9" />
+	</henna>
+	<henna dyeId="409" dyeItemId="96423" dyeName="INT Pattern INT +4" patternLevel="9"> <!-- M. Atk. +175 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="10" />
+	</henna>
+	<henna dyeId="410" dyeItemId="96424" dyeName="INT Pattern INT +4" patternLevel="10"> <!-- M. Atk. +200 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="11" />
+	</henna>
+	<henna dyeId="411" dyeItemId="96425" dyeName="INT Pattern INT +5" patternLevel="11"> <!-- M. Atk. +225 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="12" />
+	</henna>
+	<henna dyeId="412" dyeItemId="96426" dyeName="INT Pattern INT +5" patternLevel="12"> <!-- M. Atk. +250 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="13" />
+	</henna>
+	<henna dyeId="413" dyeItemId="96427" dyeName="INT Pattern INT +5" patternLevel="13"> <!-- M. Atk. +275 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="14" />
+	</henna>
+	<henna dyeId="414" dyeItemId="96428" dyeName="INT Pattern INT +5" patternLevel="14"> <!-- M. Atk. +300 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="15" />
+	</henna>
+	<henna dyeId="415" dyeItemId="96429" dyeName="INT Pattern INT +5" patternLevel="15"> <!-- M. Atk. +325 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="16" />
+	</henna>
+	<henna dyeId="416" dyeItemId="96430" dyeName="INT Pattern INT +5" patternLevel="16"> <!-- M. Atk. +350, M. Skill Critical Rate +0.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="17" />
+	</henna>
+	<henna dyeId="417" dyeItemId="96431" dyeName="INT Pattern INT +5" patternLevel="17"> <!-- M. Atk. +375, M. Skill Critical Rate +1% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="18" />
+	</henna>
+	<henna dyeId="418" dyeItemId="96432" dyeName="INT Pattern INT +5" patternLevel="18"> <!-- M. Atk. +400, M. Skill Critical Rate +1.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="19" />
+	</henna>
+	<henna dyeId="419" dyeItemId="96433" dyeName="INT Pattern INT +5" patternLevel="19"> <!-- M. Atk. +425, M. Skill Critical Rate +2% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="20" />
+	</henna>
+	<henna dyeId="420" dyeItemId="96434" dyeName="INT Pattern INT +5" patternLevel="20"> <!-- M. Atk. +450, M. Skill Critical Rate +3% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="21" />
+	</henna>
+	<henna dyeId="421" dyeItemId="96621" dyeName="MEN Pattern MEN +1" patternLevel="0"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="1" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83021" level="1" />
+	</henna>
+	<henna dyeId="422" dyeItemId="96435" dyeName="MEN Pattern MEN +2" patternLevel="1"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="2" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83021" level="2" />
+	</henna>
+	<henna dyeId="423" dyeItemId="96436" dyeName="MEN Pattern MEN +3" patternLevel="2"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="3" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83021" level="3" />
+	</henna>
+	<henna dyeId="424" dyeItemId="96437" dyeName="MEN Pattern MEN +4" patternLevel="3"> <!-- M. Def. +37 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83021" level="4" />
+	</henna>
+	<henna dyeId="425" dyeItemId="96438" dyeName="MEN Pattern MEN +4" patternLevel="4"> <!-- M. Def. +75 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83021" level="5" />
+	</henna>
+	<henna dyeId="426" dyeItemId="96439" dyeName="MEN Pattern MEN +4" patternLevel="5"> <!-- M. Def. +112 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83021" level="6" />
+	</henna>
+	<henna dyeId="427" dyeItemId="96440" dyeName="MEN Pattern MEN +4" patternLevel="6"> <!-- M. Def. +150 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83021" level="7" />
+	</henna>
+	<henna dyeId="428" dyeItemId="96441" dyeName="MEN Pattern MEN +4" patternLevel="7"> <!-- M. Def. +187 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="8" />
+	</henna>
+	<henna dyeId="429" dyeItemId="96442" dyeName="MEN Pattern MEN +4" patternLevel="8"> <!-- M. Def. +225 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="9" />
+	</henna>
+	<henna dyeId="430" dyeItemId="96443" dyeName="MEN Pattern MEN +4" patternLevel="9"> <!-- M. Def. +262 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="10" />
+	</henna>
+	<henna dyeId="431" dyeItemId="96444" dyeName="MEN Pattern MEN +4" patternLevel="10"> <!-- M. Def. +300 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="11" />
+	</henna>
+	<henna dyeId="432" dyeItemId="96445" dyeName="MEN Pattern MEN +5" patternLevel="11"> <!-- M. Def. +337 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="12" />
+	</henna>
+	<henna dyeId="433" dyeItemId="96446" dyeName="MEN Pattern MEN +5" patternLevel="12"> <!-- M. Def. +375 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="13" />
+	</henna>
+	<henna dyeId="434" dyeItemId="96447" dyeName="MEN Pattern MEN +5" patternLevel="13"> <!-- M. Def. +412 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="14" />
+	</henna>
+	<henna dyeId="435" dyeItemId="96448" dyeName="MEN Pattern MEN +5" patternLevel="14"> <!-- M. Def. +450 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="15" />
+	</henna>
+	<henna dyeId="436" dyeItemId="96449" dyeName="MEN Pattern MEN +5" patternLevel="15"> <!-- M. Def. +487 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="16" />
+	</henna>
+	<henna dyeId="437" dyeItemId="96450" dyeName="MEN Pattern MEN +5" patternLevel="16"> <!-- M. Def. +525, received M. Skill Damage -1% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="17" />
+	</henna>
+	<henna dyeId="438" dyeItemId="96451" dyeName="MEN Pattern MEN +5" patternLevel="17"> <!-- M. Def. +562, received M. Skill Damage -1.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="18" />
+	</henna>
+	<henna dyeId="439" dyeItemId="96452" dyeName="MEN Pattern MEN +5" patternLevel="18"> <!-- M. Def. +600, received M. Skill Damage -2% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="19" />
+	</henna>
+	<henna dyeId="440" dyeItemId="96453" dyeName="MEN Pattern MEN +5" patternLevel="19"> <!-- M. Def. +637, received M. Skill Damage -3% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="20" />
+	</henna>
+	<henna dyeId="441" dyeItemId="96454" dyeName="MEN Pattern MEN +5" patternLevel="20"> <!-- M. Def. +675, received M. Skill Damage -5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="21" />
+	</henna>
+	<henna dyeId="442" dyeItemId="96622" dyeName="WIT Pattern WIT +1" patternLevel="0"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="1" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83022" level="1" />
+	</henna>
+	<henna dyeId="443" dyeItemId="96455" dyeName="WIT Pattern WIT +2" patternLevel="1"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="2" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83022" level="2" />
+	</henna>
+	<henna dyeId="444" dyeItemId="96456" dyeName="WIT Pattern WIT +3" patternLevel="2"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="3" luc="0" cha="0" />
+		<wear count="1" fee="5000000" l2coinfee="100" />
+		<cancel count="1" fee="12500000" l2coinfee_cancel="250" />
+		<skill id="83022" level="3" />
+	</henna>
+	<henna dyeId="445" dyeItemId="96457" dyeName="WIT Pattern WIT +4" patternLevel="3"> <!-- Received M. Critical Rate -0.4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83022" level="4" />
+	</henna>
+	<henna dyeId="446" dyeItemId="96458" dyeName="WIT Pattern WIT +4" patternLevel="4"> <!-- Received M. Critical Rate -0.8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83022" level="5" />
+	</henna>
+	<henna dyeId="447" dyeItemId="96459" dyeName="WIT Pattern WIT +4" patternLevel="5"> <!-- Received M. Critical Rate -1.2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83022" level="6" />
+	</henna>
+	<henna dyeId="448" dyeItemId="96460" dyeName="WIT Pattern WIT +4" patternLevel="6"> <!-- Received M. Critical Rate -1.6% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83022" level="7" />
+	</henna>
+	<henna dyeId="449" dyeItemId="96461" dyeName="WIT Pattern WIT +4" patternLevel="7"> <!-- Received M. Critical Rate -2.0% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="8" />
+	</henna>
+	<henna dyeId="450" dyeItemId="96462" dyeName="WIT Pattern WIT +4" patternLevel="8"> <!-- Received M. Critical Rate -2.4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="9" />
+	</henna>
+	<henna dyeId="451" dyeItemId="96463" dyeName="WIT Pattern WIT +4" patternLevel="9"> <!-- Received M. Critical Rate -2.8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="10" />
+	</henna>
+	<henna dyeId="452" dyeItemId="96464" dyeName="WIT Pattern WIT +4" patternLevel="10"> <!-- Received M. Critical Rate -3.2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="11" />
+	</henna>
+	<henna dyeId="453" dyeItemId="96465" dyeName="WIT Pattern WIT +5" patternLevel="11"> <!-- Received M. Critical Rate -3.6% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="12" />
+	</henna>
+	<henna dyeId="454" dyeItemId="96466" dyeName="WIT Pattern WIT +5" patternLevel="12"> <!-- Received M. Critical Rate -4.0% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="13" />
+	</henna>
+	<henna dyeId="455" dyeItemId="96467" dyeName="WIT Pattern WIT +5" patternLevel="13"> <!-- Received M. Critical Rate -4.4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="14" />
+	</henna>
+	<henna dyeId="456" dyeItemId="96468" dyeName="WIT Pattern WIT +5" patternLevel="14"> <!-- Received M. Critical Rate -4.8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="15" />
+	</henna>
+	<henna dyeId="457" dyeItemId="96469" dyeName="WIT Pattern WIT +5" patternLevel="15"> <!-- Received M. Critical Rate -5.2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="16" />
+	</henna>
+	<henna dyeId="458" dyeItemId="96470" dyeName="WIT Pattern WIT +5" patternLevel="16"> <!-- Received M. Critical Rate -5.6%, Spiritshot damage +1% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="17" />
+	</henna>
+	<henna dyeId="459" dyeItemId="96471" dyeName="WIT Pattern WIT +5" patternLevel="17"> <!-- Received M. Critical Rate -6.0%, Spiritshot damage +1.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="18" />
+	</henna>
+	<henna dyeId="460" dyeItemId="96472" dyeName="WIT Pattern WIT +5" patternLevel="18"> <!-- Received M. Critical Rate -6.4%, Spiritshot damage +2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="19" />
+	</henna>
+	<henna dyeId="461" dyeItemId="96473" dyeName="WIT Pattern WIT +5" patternLevel="19"> <!-- Received M. Critical Rate -6.8%, Spiritshot damage +3% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="20" />
+	</henna>
+	<henna dyeId="462" dyeItemId="96474" dyeName="WIT Pattern WIT +5" patternLevel="20"> <!-- Received M. Critical Rate -7.2%, Spiritshot damage +4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="21" />
+	</henna>
+	<henna dyeId="463" dyeItemId="97878" dyeName="Adventurer's Pattern No stat bonus" patternLevel="0"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="0" l2coinfee="0" />
+		<cancel count="1" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="464" dyeItemId="97879" dyeName="Adventurer's Pattern No stat bonus" patternLevel="3"> <!--  -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="0" l2coinfee="0" />
+		<cancel count="1" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="465" dyeItemId="100603" dyeName="STR Pattern STR +5" patternLevel="21"> <!-- P. Atk. +475, P. Skill Critical Rate +3.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="22" />
+	</henna>
+	<henna dyeId="466" dyeItemId="100604" dyeName="STR Pattern STR +5" patternLevel="22"> <!-- P. Atk. +500, P. Skill Critical Rate +4% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="23" />
+	</henna>
+	<henna dyeId="467" dyeItemId="100605" dyeName="STR Pattern STR +5" patternLevel="23"> <!-- P. Atk. +525, P. Skill Critical Rate +4.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="24" />
+	</henna>
+	<henna dyeId="468" dyeItemId="100606" dyeName="STR Pattern STR +5" patternLevel="24"> <!-- P. Atk. +550, P. Skill Critical Rate +5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="25" />
+	</henna>
+	<henna dyeId="469" dyeItemId="100607" dyeName="STR Pattern STR +6" patternLevel="25"> <!-- P. Atk. +575, P. Skill Critical Rate +5.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="26" />
+	</henna>
+	<henna dyeId="470" dyeItemId="100608" dyeName="STR Pattern STR +6" patternLevel="26"> <!-- P. Atk. +600, P. Skill Critical Rate +5.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="27" />
+	</henna>
+	<henna dyeId="471" dyeItemId="100609" dyeName="STR Pattern STR +6" patternLevel="27"> <!-- P. Atk. +625, P. Skill Critical Rate +6% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="28" />
+	</henna>
+	<henna dyeId="472" dyeItemId="100610" dyeName="STR Pattern STR +6" patternLevel="28"> <!-- P. Atk. +650, P. Skill Critical Rate +6.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="29" />
+	</henna>
+	<henna dyeId="473" dyeItemId="100611" dyeName="STR Pattern STR +6" patternLevel="29"> <!-- P. Atk. +675, P. Skill Critical Rate +7% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="30" />
+	</henna>
+	<henna dyeId="474" dyeItemId="100612" dyeName="STR Pattern STR +6" patternLevel="30"> <!-- P. Atk. +700, P. Skill Critical Rate +7.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="31" />
+	</henna>
+	<henna dyeId="475" dyeItemId="100613" dyeName="CON Pattern CON +5" patternLevel="21"> <!-- P. Def. +618, received P. Skill Damage -5.5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="22" />
+	</henna>
+	<henna dyeId="476" dyeItemId="100614" dyeName="CON Pattern CON +5" patternLevel="22"> <!-- P. Def. +651, received P. Skill Damage -6% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="23" />
+	</henna>
+	<henna dyeId="477" dyeItemId="100615" dyeName="CON Pattern CON +5" patternLevel="23"> <!-- P. Def. +684, received P. Skill Damage -6.5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="24" />
+	</henna>
+	<henna dyeId="478" dyeItemId="100616" dyeName="CON Pattern CON +5" patternLevel="24"> <!-- P. Def. +717, received P. Skill Damage -7% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="25" />
+	</henna>
+	<henna dyeId="479" dyeItemId="100617" dyeName="CON Pattern CON +6" patternLevel="25"> <!-- P. Def. +750, received P. Skill Damage -7.5% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="26" />
+	</henna>
+	<henna dyeId="480" dyeItemId="100618" dyeName="CON Pattern CON +6" patternLevel="26"> <!-- P. Def. +783, received P. Skill Damage -8% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="27" />
+	</henna>
+	<henna dyeId="481" dyeItemId="100619" dyeName="CON Pattern CON +6" patternLevel="27"> <!-- P. Def. +816, received P. Skill Damage -8.5% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="28" />
+	</henna>
+	<henna dyeId="482" dyeItemId="100620" dyeName="CON Pattern CON +6" patternLevel="28"> <!-- P. Def. +849, received P. Skill Damage -9% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="29" />
+	</henna>
+	<henna dyeId="483" dyeItemId="100621" dyeName="CON Pattern CON +6" patternLevel="29"> <!-- P. Def. +882, received P. Skill Damage -9.5% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="30" />
+	</henna>
+	<henna dyeId="484" dyeItemId="100622" dyeName="CON Pattern CON +6" patternLevel="30"> <!-- P. Def. +915, received P. Skill Damage -10% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="31" />
+	</henna>
+	<henna dyeId="485" dyeItemId="100623" dyeName="DEX Pattern DEX +5" patternLevel="21"> <!-- Received P. Skill Critical Rate -7.6%, Soulshot damage +5% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="22" />
+	</henna>
+	<henna dyeId="486" dyeItemId="100624" dyeName="DEX Pattern DEX +5" patternLevel="22"> <!-- Received P. Skill Critical Rate -8.0%, Soulshot damage +6% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="23" />
+	</henna>
+	<henna dyeId="487" dyeItemId="100625" dyeName="DEX Pattern DEX +5" patternLevel="23"> <!-- Received P. Skill Critical Rate -8.4%, Soulshot damage +7% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="24" />
+	</henna>
+	<henna dyeId="488" dyeItemId="100626" dyeName="DEX Pattern DEX +5" patternLevel="24"> <!-- Received P. Skill Critical Rate -8.8%, Soulshot damage +8% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="25" />
+	</henna>
+	<henna dyeId="489" dyeItemId="100627" dyeName="DEX Pattern DEX +6" patternLevel="25"> <!-- Received P. Skill Critical Rate -9.2%, Soulshot damage +9% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="26" />
+	</henna>
+	<henna dyeId="490" dyeItemId="100628" dyeName="DEX Pattern DEX +6" patternLevel="26"> <!-- Received P. Skill Critical Rate -9.6%, Soulshot damage +10% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="27" />
+	</henna>
+	<henna dyeId="491" dyeItemId="100629" dyeName="DEX Pattern DEX +6" patternLevel="27"> <!-- Received P. Skill Critical Rate -10.0%, Soulshot damage +11% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="28" />
+	</henna>
+	<henna dyeId="492" dyeItemId="100630" dyeName="DEX Pattern DEX +6" patternLevel="28"> <!-- Received P. Skill Critical Rate -10.4%, Soulshot damage +12% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="29" />
+	</henna>
+	<henna dyeId="493" dyeItemId="100631" dyeName="DEX Pattern DEX +6" patternLevel="29"> <!-- Received P. Skill Critical Rate -10.8%, Soulshot damage +13% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="30" />
+	</henna>
+	<henna dyeId="494" dyeItemId="100632" dyeName="DEX Pattern DEX +6" patternLevel="30"> <!-- Received P. Skill Critical Rate -11.2%, Soulshot damage +14% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="31" />
+	</henna>
+	<henna dyeId="495" dyeItemId="100633" dyeName="INT Pattern INT +5" patternLevel="21"> <!-- M. Atk. +475, M. Skill Critical Rate +3.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="22" />
+	</henna>
+	<henna dyeId="496" dyeItemId="100634" dyeName="INT Pattern INT +5" patternLevel="22"> <!-- M. Atk. +500, M. Skill Critical Rate +4% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="23" />
+	</henna>
+	<henna dyeId="497" dyeItemId="100635" dyeName="INT Pattern INT +5" patternLevel="23"> <!-- M. Atk. +525, M. Skill Critical Rate +4.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="24" />
+	</henna>
+	<henna dyeId="498" dyeItemId="100636" dyeName="INT Pattern INT +5" patternLevel="24"> <!-- M. Atk. +550, M. Skill Critical Rate +5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="25" />
+	</henna>
+	<henna dyeId="499" dyeItemId="100637" dyeName="INT Pattern INT +6" patternLevel="25"> <!-- M. Atk. +575, M. Skill Critical Rate +5.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="26" />
+	</henna>
+	<henna dyeId="500" dyeItemId="100638" dyeName="INT Pattern INT +6" patternLevel="26"> <!-- M. Atk. +600, M. Skill Critical Rate +5.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="27" />
+	</henna>
+	<henna dyeId="501" dyeItemId="100639" dyeName="INT Pattern INT +6" patternLevel="27"> <!-- M. Atk. +625, M. Skill Critical Rate +6% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="28" />
+	</henna>
+	<henna dyeId="502" dyeItemId="100640" dyeName="INT Pattern INT +6" patternLevel="28"> <!-- M. Atk. +650, M. Skill Critical Rate +6.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="29" />
+	</henna>
+	<henna dyeId="503" dyeItemId="100641" dyeName="INT Pattern INT +6" patternLevel="29"> <!-- M. Atk. +675, M. Skill Critical Rate +7% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="30" />
+	</henna>
+	<henna dyeId="504" dyeItemId="100642" dyeName="INT Pattern INT +6" patternLevel="30"> <!-- M. Atk. +700, M. Skill Critical Rate +7.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="31" />
+	</henna>
+	<henna dyeId="505" dyeItemId="100643" dyeName="MEN Pattern MEN +5" patternLevel="21"> <!-- M. Def. +699, received M. Skill Damage -5.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="22" />
+	</henna>
+	<henna dyeId="506" dyeItemId="100644" dyeName="MEN Pattern MEN +5" patternLevel="22"> <!-- M. Def. +723, received M. Skill Damage -6% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="23" />
+	</henna>
+	<henna dyeId="507" dyeItemId="100645" dyeName="MEN Pattern MEN +5" patternLevel="23"> <!-- M. Def. +747, received M. Skill Damage -6.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="24" />
+	</henna>
+	<henna dyeId="508" dyeItemId="100646" dyeName="MEN Pattern MEN +5" patternLevel="24"> <!-- M. Def. +771, received M. Skill Damage -7% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="25" />
+	</henna>
+	<henna dyeId="509" dyeItemId="100647" dyeName="MEN Pattern MEN +6" patternLevel="25"> <!-- M. Def. +795, received M. Skill Damage -7.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="26" />
+	</henna>
+	<henna dyeId="510" dyeItemId="100648" dyeName="MEN Pattern MEN +6" patternLevel="26"> <!-- M. Def. +819, received M. Skill Damage -8% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="27" />
+	</henna>
+	<henna dyeId="511" dyeItemId="100649" dyeName="MEN Pattern MEN +6" patternLevel="27"> <!-- M. Def. +843, received M. Skill Damage -8.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="28" />
+	</henna>
+	<henna dyeId="512" dyeItemId="100650" dyeName="MEN Pattern MEN +6" patternLevel="28"> <!-- M. Def. +867, received M. Skill Damage -9% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="29" />
+	</henna>
+	<henna dyeId="513" dyeItemId="100651" dyeName="MEN Pattern MEN +6" patternLevel="29"> <!-- M. Def. +891, received M. Skill Damage -9.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="30" />
+	</henna>
+	<henna dyeId="514" dyeItemId="100652" dyeName="MEN Pattern MEN +6" patternLevel="30"> <!-- M. Def. +915, received M. Skill Damage -10% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="31" />
+	</henna>
+	<henna dyeId="515" dyeItemId="100653" dyeName="WIT Pattern WIT +5" patternLevel="21"> <!-- Received M. Skill Critical Rate -7.6%, Spiritshot damage +5% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="22" />
+	</henna>
+	<henna dyeId="516" dyeItemId="100654" dyeName="WIT Pattern WIT +5" patternLevel="22"> <!-- Received M. Skill Critical Rate -8.0%, Spiritshot damage +6% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="23" />
+	</henna>
+	<henna dyeId="517" dyeItemId="100655" dyeName="WIT Pattern WIT +5" patternLevel="23"> <!-- Received M. Skill Critical Rate -8.4%, Spiritshot damage +7% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="24" />
+	</henna>
+	<henna dyeId="518" dyeItemId="100656" dyeName="WIT Pattern WIT +5" patternLevel="24"> <!-- Received M. Skill Critical Rate -8.8%, Spiritshot damage +8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="25" />
+	</henna>
+	<henna dyeId="519" dyeItemId="100657" dyeName="WIT Pattern WIT +6" patternLevel="25"> <!-- Received M. Skill Critical Rate -9.2%, Spiritshot damage +9% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="26" />
+	</henna>
+	<henna dyeId="520" dyeItemId="100658" dyeName="WIT Pattern WIT +6" patternLevel="26"> <!-- Received M. Skill Critical Rate -9.6%, Spiritshot damage +10% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="27" />
+	</henna>
+	<henna dyeId="521" dyeItemId="100659" dyeName="WIT Pattern WIT +6" patternLevel="27"> <!-- Received M. Skill Critical Rate -10.0%, Spiritshot damage +11% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="28" />
+	</henna>
+	<henna dyeId="522" dyeItemId="100660" dyeName="WIT Pattern WIT +6" patternLevel="28"> <!-- Received M. Skill Critical Rate -10.4%, Spiritshot damage +12% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="29" />
+	</henna>
+	<henna dyeId="523" dyeItemId="100661" dyeName="WIT Pattern WIT +6" patternLevel="29"> <!-- Received M. Skill Critical Rate -10.8%, Spiritshot damage +13% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="30" />
+	</henna>
+	<henna dyeId="524" dyeItemId="100662" dyeName="WIT Pattern WIT +6" patternLevel="30"> <!-- Received M. Skill Critical Rate -11.2%, Spiritshot damage +14% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="31" />
+	</henna>
+	<henna dyeId="600" dyeItemId="29081" dyeName="Premium STR Dye" patternLevel="0"> <!-- STR +1, CON -1 -->
+		<stats str="1" con="-1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="601" dyeItemId="29082" dyeName="Premium STR Dye" patternLevel="0"> <!-- STR +1, DEX -1 -->
+		<stats str="1" con="0" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="602" dyeItemId="29083" dyeName="Premium CON Dye" patternLevel="0"> <!-- CON +1, STR -1 -->
+		<stats str="-1" con="1" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="603" dyeItemId="29084" dyeName="Premium CON Dye" patternLevel="0"> <!-- CON +1, DEX -1 -->
+		<stats str="0" con="1" dex="-1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="604" dyeItemId="29085" dyeName="Premium DEX Dye" patternLevel="0"> <!-- DEX +1, STR -1 -->
+		<stats str="-1" con="0" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="605" dyeItemId="29086" dyeName="Premium DEX Dye" patternLevel="0"> <!-- DEX +1, CON -1 -->
+		<stats str="0" con="-1" dex="1" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="606" dyeItemId="29087" dyeName="Premium INT Dye" patternLevel="0"> <!-- INT +1, MEN -1 -->
+		<stats str="0" con="0" dex="0" int="1" men="-1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="607" dyeItemId="29088" dyeName="Premium INT Dye" patternLevel="0"> <!-- INT +1, WIT -1 -->
+		<stats str="0" con="0" dex="0" int="1" men="0" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="608" dyeItemId="29089" dyeName="Premium MEN Dye" patternLevel="0"> <!-- MEN +1, INT -1 -->
+		<stats str="0" con="0" dex="0" int="-1" men="1" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="609" dyeItemId="29090" dyeName="Premium MEN Dye" patternLevel="0"> <!-- MEN +1, WIT -1 -->
+		<stats str="0" con="0" dex="0" int="0" men="1" wit="-1" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="610" dyeItemId="29091" dyeName="Premium WIT Dye" patternLevel="0"> <!-- WIT +1, INT -1 -->
+		<stats str="0" con="0" dex="0" int="-1" men="0" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="611" dyeItemId="29092" dyeName="Premium WIT Dye" patternLevel="0"> <!-- WIT +1, MEN -1 -->
+		<stats str="0" con="0" dex="0" int="0" men="-1" wit="1" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="612" dyeItemId="29093" dyeName="Premium STR Dye" patternLevel="0"> <!-- STR +2, CON -2 -->
+		<stats str="2" con="-2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="613" dyeItemId="29094" dyeName="Premium STR Dye" patternLevel="0"> <!-- STR +2, DEX -2 -->
+		<stats str="2" con="0" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="614" dyeItemId="29095" dyeName="Premium CON Dye" patternLevel="0"> <!-- CON +2, STR -2 -->
+		<stats str="-2" con="2" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="615" dyeItemId="29096" dyeName="Premium CON Dye" patternLevel="0"> <!-- CON +2, DEX -2 -->
+		<stats str="0" con="2" dex="-2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="616" dyeItemId="29097" dyeName="Premium DEX Dye" patternLevel="0"> <!-- DEX +2, STR -2 -->
+		<stats str="-2" con="0" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="617" dyeItemId="29098" dyeName="Premium DEX Dye" patternLevel="0"> <!-- DEX +2, CON -2 -->
+		<stats str="0" con="-2" dex="2" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="618" dyeItemId="29099" dyeName="Premium INT Dye" patternLevel="0"> <!-- INT +2, MEN -2 -->
+		<stats str="0" con="0" dex="0" int="2" men="-2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="619" dyeItemId="29100" dyeName="Premium INT Dye" patternLevel="0"> <!-- INT +2, WIT -2 -->
+		<stats str="0" con="0" dex="0" int="2" men="0" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="620" dyeItemId="29101" dyeName="Premium MEN Dye" patternLevel="0"> <!-- MEN +2, INT -2 -->
+		<stats str="0" con="0" dex="0" int="-2" men="2" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="621" dyeItemId="29102" dyeName="Premium MEN Dye" patternLevel="0"> <!-- MEN +2, WIT -2 -->
+		<stats str="0" con="0" dex="0" int="0" men="2" wit="-2" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="622" dyeItemId="29103" dyeName="Premium WIT Dye" patternLevel="0"> <!-- WIT +2, INT -2 -->
+		<stats str="0" con="0" dex="0" int="-2" men="0" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="623" dyeItemId="29104" dyeName="Premium WIT Dye" patternLevel="0"> <!-- WIT +2, MEN -2 -->
+		<stats str="0" con="0" dex="0" int="0" men="-2" wit="2" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="624" dyeItemId="29105" dyeName="Premium STR Dye" patternLevel="0"> <!-- STR +3, CON -3 -->
+		<stats str="3" con="-3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="625" dyeItemId="29106" dyeName="Premium STR Dye" patternLevel="0"> <!-- STR +3, DEX -3 -->
+		<stats str="3" con="0" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="626" dyeItemId="29107" dyeName="Premium CON Dye" patternLevel="0"> <!-- CON +3, STR -3 -->
+		<stats str="-3" con="3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="627" dyeItemId="29108" dyeName="Premium CON Dye" patternLevel="0"> <!-- CON +3, DEX -3 -->
+		<stats str="0" con="3" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="628" dyeItemId="29109" dyeName="Premium DEX Dye" patternLevel="0"> <!-- DEX +3, STR -3 -->
+		<stats str="-3" con="0" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="629" dyeItemId="29110" dyeName="Premium DEX Dye" patternLevel="0"> <!-- DEX +3, CON -3 -->
+		<stats str="0" con="-3" dex="3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="630" dyeItemId="29111" dyeName="Premium INT Dye" patternLevel="0"> <!-- INT +3, MEN -3 -->
+		<stats str="0" con="0" dex="0" int="3" men="-3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="631" dyeItemId="29112" dyeName="Premium INT Dye" patternLevel="0"> <!-- INT +3, WIT -3 -->
+		<stats str="0" con="0" dex="0" int="3" men="0" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="632" dyeItemId="29113" dyeName="Premium MEN Dye" patternLevel="0"> <!-- MEN +3, INT -3 -->
+		<stats str="0" con="0" dex="0" int="-3" men="3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="633" dyeItemId="29114" dyeName="Premium MEN Dye" patternLevel="0"> <!-- MEN +3, WIT -3 -->
+		<stats str="0" con="0" dex="0" int="0" men="3" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="634" dyeItemId="29115" dyeName="Premium WIT Dye" patternLevel="0"> <!-- WIT +3, INT -3 -->
+		<stats str="0" con="0" dex="0" int="-3" men="0" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="635" dyeItemId="29116" dyeName="Premium WIT Dye" patternLevel="0"> <!-- WIT +3, MEN -3 -->
+		<stats str="0" con="0" dex="0" int="0" men="-3" wit="3" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="636" dyeItemId="29117" dyeName="Premium Greater STR Dye" patternLevel="0"> <!-- STR +4, CON -3 -->
+		<stats str="4" con="-3" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="637" dyeItemId="29118" dyeName="Premium Greater STR Dye" patternLevel="0"> <!-- STR +4, DEX -3 -->
+		<stats str="4" con="0" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="638" dyeItemId="29119" dyeName="Premium Greater CON Dye" patternLevel="0"> <!-- CON +4, STR -3 -->
+		<stats str="-3" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="639" dyeItemId="29120" dyeName="Premium Greater CON Dye" patternLevel="0"> <!-- CON +4, DEX -3 -->
+		<stats str="0" con="4" dex="-3" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="640" dyeItemId="29121" dyeName="Premium Greater DEX Dye" patternLevel="0"> <!-- DEX +4, STR -3 -->
+		<stats str="-3" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="641" dyeItemId="29122" dyeName="Premium Greater DEX Dye" patternLevel="0"> <!-- DEX +4, CON -3 -->
+		<stats str="0" con="-3" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="642" dyeItemId="29123" dyeName="Premium Greater INT Dye" patternLevel="0"> <!-- INT +4, MEN -3 -->
+		<stats str="0" con="0" dex="0" int="4" men="-3" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="643" dyeItemId="29124" dyeName="Premium Greater INT Dye" patternLevel="0"> <!-- INT +4, WIT -3 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="644" dyeItemId="29125" dyeName="Premium Greater MEN Dye" patternLevel="0"> <!-- MEN +4, INT -3 -->
+		<stats str="0" con="0" dex="0" int="-3" men="4" wit="0" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="645" dyeItemId="29126" dyeName="Premium Greater MEN Dye" patternLevel="0"> <!-- MEN +4, WIT -3 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="-3" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="646" dyeItemId="29127" dyeName="Premium Greater WIT Dye" patternLevel="0"> <!-- WIT +4, INT -3 -->
+		<stats str="0" con="0" dex="0" int="-3" men="0" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="647" dyeItemId="29128" dyeName="Premium Greater WIT Dye" patternLevel="0"> <!-- WIT +4, MEN -3 -->
+		<stats str="0" con="0" dex="0" int="0" men="-3" wit="4" luc="0" cha="0" />
+		<wear count="10" fee="0" l2coinfee="0" />
+		<cancel count="5" fee="0" l2coinfee_cancel="0" />
+	</henna>
+	<henna dyeId="648" dyeItemId="100984" dyeName="STR Pattern STR +4" patternLevel="6"> <!-- P. Atk. +100 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83017" level="7" />
+	</henna>
+	<henna dyeId="649" dyeItemId="100985" dyeName="STR Pattern STR +4" patternLevel="7"> <!-- P. Atk. +125 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="8" />
+	</henna>
+	<henna dyeId="650" dyeItemId="100986" dyeName="STR Pattern STR +4" patternLevel="8"> <!-- P. Atk. +150 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="9" />
+	</henna>
+	<henna dyeId="651" dyeItemId="100987" dyeName="STR Pattern STR +4" patternLevel="9"> <!-- P. Atk. +175 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="10" />
+	</henna>
+	<henna dyeId="652" dyeItemId="100988" dyeName="STR Pattern STR +4" patternLevel="10"> <!-- P. Atk. +200 -->
+		<stats str="4" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83017" level="11" />
+	</henna>
+	<henna dyeId="653" dyeItemId="100989" dyeName="STR Pattern STR +5" patternLevel="11"> <!-- P. Atk. +225 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="12" />
+	</henna>
+	<henna dyeId="654" dyeItemId="100990" dyeName="STR Pattern STR +5" patternLevel="12"> <!-- P. Atk. +250 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="13" />
+	</henna>
+	<henna dyeId="655" dyeItemId="100991" dyeName="STR Pattern STR +5" patternLevel="13"> <!-- P. Atk. +275 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="14" />
+	</henna>
+	<henna dyeId="656" dyeItemId="100992" dyeName="STR Pattern STR +5" patternLevel="14"> <!-- P. Atk. +300 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="15" />
+	</henna>
+	<henna dyeId="657" dyeItemId="100993" dyeName="STR Pattern STR +5" patternLevel="15"> <!-- P. Atk. +325 -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83017" level="16" />
+	</henna>
+	<henna dyeId="658" dyeItemId="100994" dyeName="STR Pattern STR +5" patternLevel="16"> <!-- P. Atk. +350, P. Skill Critical Rate +0.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="17" />
+	</henna>
+	<henna dyeId="659" dyeItemId="100995" dyeName="STR Pattern STR +5" patternLevel="17"> <!-- P. Atk. +375, P. Skill Critical Rate +1% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="18" />
+	</henna>
+	<henna dyeId="660" dyeItemId="100996" dyeName="STR Pattern STR +5" patternLevel="18"> <!-- P. Atk. +400, P. Skill Critical Rate +1.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="19" />
+	</henna>
+	<henna dyeId="661" dyeItemId="100997" dyeName="STR Pattern STR +5" patternLevel="19"> <!-- P. Atk. +425, P. Skill Critical Rate +2% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="20" />
+	</henna>
+	<henna dyeId="662" dyeItemId="100998" dyeName="STR Pattern STR +5" patternLevel="20"> <!-- P. Atk. +450, P. Skill Critical Rate +3% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83017" level="21" />
+	</henna>
+	<henna dyeId="663" dyeItemId="100999" dyeName="STR Pattern STR +5" patternLevel="21"> <!-- P. Atk. +475, P. Skill Critical Rate +3.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="22" />
+	</henna>
+	<henna dyeId="664" dyeItemId="101000" dyeName="STR Pattern STR +5" patternLevel="22"> <!-- P. Atk. +500, P. Skill Critical Rate +4% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="23" />
+	</henna>
+	<henna dyeId="665" dyeItemId="101001" dyeName="STR Pattern STR +5" patternLevel="23"> <!-- P. Atk. +525, P. Skill Critical Rate +4.5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="24" />
+	</henna>
+	<henna dyeId="666" dyeItemId="101002" dyeName="STR Pattern STR +5" patternLevel="24"> <!-- P. Atk. +550, P. Skill Critical Rate +5% -->
+		<stats str="5" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="25" />
+	</henna>
+	<henna dyeId="667" dyeItemId="101003" dyeName="STR Pattern STR +6" patternLevel="25"> <!-- P. Atk. +575, P. Skill Critical Rate +5.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83017" level="26" />
+	</henna>
+	<henna dyeId="668" dyeItemId="101004" dyeName="STR Pattern STR +6" patternLevel="26"> <!-- P. Atk. +600, P. Skill Critical Rate +5.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="27" />
+	</henna>
+	<henna dyeId="669" dyeItemId="101005" dyeName="STR Pattern STR +6" patternLevel="27"> <!-- P. Atk. +625, P. Skill Critical Rate +6% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="28" />
+	</henna>
+	<henna dyeId="670" dyeItemId="101006" dyeName="STR Pattern STR +6" patternLevel="28"> <!-- P. Atk. +650, P. Skill Critical Rate +6.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="29" />
+	</henna>
+	<henna dyeId="671" dyeItemId="101007" dyeName="STR Pattern STR +6" patternLevel="29"> <!-- P. Atk. +675, P. Skill Critical Rate +7% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="30" />
+	</henna>
+	<henna dyeId="672" dyeItemId="101008" dyeName="STR Pattern STR +6" patternLevel="30"> <!-- P. Atk. +700, P. Skill Critical Rate +7.5% -->
+		<stats str="6" con="0" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83017" level="31" />
+	</henna>
+	<henna dyeId="673" dyeItemId="101009" dyeName="CON Pattern CON +4" patternLevel="6"> <!-- P. Def. +130 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83018" level="7" />
+	</henna>
+	<henna dyeId="674" dyeItemId="101010" dyeName="CON Pattern CON +4" patternLevel="7"> <!-- P. Def. +162 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="8" />
+	</henna>
+	<henna dyeId="675" dyeItemId="101011" dyeName="CON Pattern CON +4" patternLevel="8"> <!-- P. Def. +195 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="9" />
+	</henna>
+	<henna dyeId="676" dyeItemId="101012" dyeName="CON Pattern CON +4" patternLevel="9"> <!-- P. Def. +227 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="10" />
+	</henna>
+	<henna dyeId="677" dyeItemId="101013" dyeName="CON Pattern CON +4" patternLevel="10"> <!-- P. Def. +260 -->
+		<stats str="0" con="4" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83018" level="11" />
+	</henna>
+	<henna dyeId="678" dyeItemId="101014" dyeName="CON Pattern CON +5" patternLevel="11"> <!-- P. Def. +292 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="12" />
+	</henna>
+	<henna dyeId="679" dyeItemId="101015" dyeName="CON Pattern CON +5" patternLevel="12"> <!-- P. Def. +325 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="13" />
+	</henna>
+	<henna dyeId="680" dyeItemId="101016" dyeName="CON Pattern CON +5" patternLevel="13"> <!-- P. Def. +357 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="14" />
+	</henna>
+	<henna dyeId="681" dyeItemId="101017" dyeName="CON Pattern CON +5" patternLevel="14"> <!-- P. Def. +390 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="15" />
+	</henna>
+	<henna dyeId="682" dyeItemId="101018" dyeName="CON Pattern CON +5" patternLevel="15"> <!-- P. Def. +422 -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83018" level="16" />
+	</henna>
+	<henna dyeId="683" dyeItemId="101019" dyeName="CON Pattern CON +5" patternLevel="16"> <!-- P. Def. +455, received P. Skill Damage -1% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="17" />
+	</henna>
+	<henna dyeId="684" dyeItemId="101020" dyeName="CON Pattern CON +5" patternLevel="17"> <!-- P. Def. +487, received P. Skill Damage -1.5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="18" />
+	</henna>
+	<henna dyeId="685" dyeItemId="101021" dyeName="CON Pattern CON +5" patternLevel="18"> <!-- P. Def. +520, received P. Skill Damage -2% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="19" />
+	</henna>
+	<henna dyeId="686" dyeItemId="101022" dyeName="CON Pattern CON +5" patternLevel="19"> <!-- P. Def. +552, received P. Skill Damage -3% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="20" />
+	</henna>
+	<henna dyeId="687" dyeItemId="101023" dyeName="CON Pattern CON +5" patternLevel="20"> <!-- P. Def. +585, received P. Skill Damage -5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83018" level="21" />
+	</henna>
+	<henna dyeId="688" dyeItemId="101024" dyeName="CON Pattern CON +5" patternLevel="21"> <!-- P. Def. +618, received P. Skill Damage -5.5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="22" />
+	</henna>
+	<henna dyeId="689" dyeItemId="101025" dyeName="CON Pattern CON +5" patternLevel="22"> <!-- P. Def. +651, received P. Skill Damage -6% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="23" />
+	</henna>
+	<henna dyeId="690" dyeItemId="101026" dyeName="CON Pattern CON +5" patternLevel="23"> <!-- P. Def. +684, received P. Skill Damage -6.5% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="24" />
+	</henna>
+	<henna dyeId="691" dyeItemId="101027" dyeName="CON Pattern CON +5" patternLevel="24"> <!-- P. Def. +717, received P. Skill Damage -7% -->
+		<stats str="0" con="5" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="25" />
+	</henna>
+	<henna dyeId="692" dyeItemId="101028" dyeName="CON Pattern CON +6" patternLevel="25"> <!-- P. Def. +750, received P. Skill Damage -7.5% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83018" level="26" />
+	</henna>
+	<henna dyeId="693" dyeItemId="101029" dyeName="CON Pattern CON +6" patternLevel="26"> <!-- P. Def. +783, received P. Skill Damage -8% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="27" />
+	</henna>
+	<henna dyeId="694" dyeItemId="101030" dyeName="CON Pattern CON +6" patternLevel="27"> <!-- P. Def. +816, received P. Skill Damage -8.5% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="28" />
+	</henna>
+	<henna dyeId="695" dyeItemId="101031" dyeName="CON Pattern CON +6" patternLevel="28"> <!-- P. Def. +849, received P. Skill Damage -9% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="29" />
+	</henna>
+	<henna dyeId="696" dyeItemId="101032" dyeName="CON Pattern CON +6" patternLevel="29"> <!-- P. Def. +882, received P. Skill Damage -9.5% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="30" />
+	</henna>
+	<henna dyeId="697" dyeItemId="101033" dyeName="CON Pattern CON +6" patternLevel="30"> <!-- P. Def. +915, received P. Skill Damage -10% -->
+		<stats str="0" con="6" dex="0" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83018" level="31" />
+	</henna>
+	<henna dyeId="698" dyeItemId="101034" dyeName="DEX Pattern DEX +4" patternLevel="6"> <!-- Received P. Skill Critical Rate -1.6% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83019" level="7" />
+	</henna>
+	<henna dyeId="699" dyeItemId="101035" dyeName="DEX Pattern DEX +4" patternLevel="7"> <!-- Received P. Skill Critical Rate -2.0% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="8" />
+	</henna>
+	<henna dyeId="700" dyeItemId="101036" dyeName="DEX Pattern DEX +4" patternLevel="8"> <!-- Received P. Skill Critical Rate -2.4% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="9" />
+	</henna>
+	<henna dyeId="701" dyeItemId="101037" dyeName="DEX Pattern DEX +4" patternLevel="9"> <!-- Received P. Skill Critical Rate -2.8% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="10" />
+	</henna>
+	<henna dyeId="702" dyeItemId="101038" dyeName="DEX Pattern DEX +4" patternLevel="10"> <!-- Received P. Skill Critical Rate -3.2% -->
+		<stats str="0" con="0" dex="4" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83019" level="11" />
+	</henna>
+	<henna dyeId="703" dyeItemId="101039" dyeName="DEX Pattern DEX +5" patternLevel="11"> <!-- Received P. Skill Critical Rate -3.6% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="12" />
+	</henna>
+	<henna dyeId="704" dyeItemId="101040" dyeName="DEX Pattern DEX +5" patternLevel="12"> <!-- Received P. Skill Critical Rate -4.0% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="13" />
+	</henna>
+	<henna dyeId="705" dyeItemId="101041" dyeName="DEX Pattern DEX +5" patternLevel="13"> <!-- Received P. Skill Critical Rate -4.4% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="14" />
+	</henna>
+	<henna dyeId="706" dyeItemId="101042" dyeName="DEX Pattern DEX +5" patternLevel="14"> <!-- Received P. Skill Critical Rate -4.8% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="15" />
+	</henna>
+	<henna dyeId="707" dyeItemId="101043" dyeName="DEX Pattern DEX +5" patternLevel="15"> <!-- Received P. Skill Critical Rate -5.2% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83019" level="16" />
+	</henna>
+	<henna dyeId="708" dyeItemId="101044" dyeName="DEX Pattern DEX +5" patternLevel="16"> <!-- Received P. Skill Critical Rate -5.6%, Soulshot damage +1% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="17" />
+	</henna>
+	<henna dyeId="709" dyeItemId="101045" dyeName="DEX Pattern DEX +5" patternLevel="17"> <!-- Received P. Skill Critical Rate -6.0%, Soulshot damage +1.5% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="18" />
+	</henna>
+	<henna dyeId="710" dyeItemId="101046" dyeName="DEX Pattern DEX +5" patternLevel="18"> <!-- Received P. Skill Critical Rate -6.4%, Soulshot damage +2% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="19" />
+	</henna>
+	<henna dyeId="711" dyeItemId="101047" dyeName="DEX Pattern DEX +5" patternLevel="19"> <!-- Received P. Skill Critical Rate -6.8%, Soulshot damage +3% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="20" />
+	</henna>
+	<henna dyeId="712" dyeItemId="101048" dyeName="DEX Pattern DEX +5" patternLevel="20"> <!-- Received P. Skill Critical Rate -7.2%, Soulshot damage +4% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83019" level="21" />
+	</henna>
+	<henna dyeId="713" dyeItemId="101049" dyeName="DEX Pattern DEX +5" patternLevel="21"> <!-- Received P. Skill Critical Rate -7.6%, Soulshot damage +5% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="22" />
+	</henna>
+	<henna dyeId="714" dyeItemId="101050" dyeName="DEX Pattern DEX +5" patternLevel="22"> <!-- Received P. Skill Critical Rate -8.0%, Soulshot damage +6% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="23" />
+	</henna>
+	<henna dyeId="715" dyeItemId="101051" dyeName="DEX Pattern DEX +5" patternLevel="23"> <!-- Received P. Skill Critical Rate -8.4%, Soulshot damage +7% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="24" />
+	</henna>
+	<henna dyeId="716" dyeItemId="101052" dyeName="DEX Pattern DEX +5" patternLevel="24"> <!-- Received P. Skill Critical Rate -8.8%, Soulshot damage +8% -->
+		<stats str="0" con="0" dex="5" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="25" />
+	</henna>
+	<henna dyeId="717" dyeItemId="101053" dyeName="DEX Pattern DEX +6" patternLevel="25"> <!-- Received P. Skill Critical Rate -9.2%, Soulshot damage +9% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83019" level="26" />
+	</henna>
+	<henna dyeId="718" dyeItemId="101054" dyeName="DEX Pattern DEX +6" patternLevel="26"> <!-- Received P. Skill Critical Rate -9.6%, Soulshot damage +10% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="27" />
+	</henna>
+	<henna dyeId="719" dyeItemId="101055" dyeName="DEX Pattern DEX +6" patternLevel="27"> <!-- Received P. Skill Critical Rate -10.0%, Soulshot damage +11% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="28" />
+	</henna>
+	<henna dyeId="720" dyeItemId="101056" dyeName="DEX Pattern DEX +6" patternLevel="28"> <!-- Received P. Skill Critical Rate -10.4%, Soulshot damage +12% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="29" />
+	</henna>
+	<henna dyeId="721" dyeItemId="101057" dyeName="DEX Pattern DEX +6" patternLevel="29"> <!-- Received P. Skill Critical Rate -10.8%, Soulshot damage +13% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="30" />
+	</henna>
+	<henna dyeId="722" dyeItemId="101058" dyeName="DEX Pattern DEX +6" patternLevel="30"> <!-- Received P. Skill Critical Rate -11.2%, Soulshot damage +14% -->
+		<stats str="0" con="0" dex="6" int="0" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83019" level="31" />
+	</henna>
+	<henna dyeId="723" dyeItemId="101059" dyeName="INT Pattern INT +4" patternLevel="6"> <!-- M. Atk. +100 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83020" level="7" />
+	</henna>
+	<henna dyeId="724" dyeItemId="101060" dyeName="INT Pattern INT +4" patternLevel="7"> <!-- M. Atk. +125 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="8" />
+	</henna>
+	<henna dyeId="725" dyeItemId="101061" dyeName="INT Pattern INT +4" patternLevel="8"> <!-- M. Atk. +150 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="9" />
+	</henna>
+	<henna dyeId="726" dyeItemId="101062" dyeName="INT Pattern INT +4" patternLevel="9"> <!-- M. Atk. +175 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="10" />
+	</henna>
+	<henna dyeId="727" dyeItemId="101063" dyeName="INT Pattern INT +4" patternLevel="10"> <!-- M. Atk. +200 -->
+		<stats str="0" con="0" dex="0" int="4" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83020" level="11" />
+	</henna>
+	<henna dyeId="728" dyeItemId="101064" dyeName="INT Pattern INT +5" patternLevel="11"> <!-- M. Atk. +225 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="12" />
+	</henna>
+	<henna dyeId="729" dyeItemId="101065" dyeName="INT Pattern INT +5" patternLevel="12"> <!-- M. Atk. +250 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="13" />
+	</henna>
+	<henna dyeId="730" dyeItemId="101066" dyeName="INT Pattern INT +5" patternLevel="13"> <!-- M. Atk. +275 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="14" />
+	</henna>
+	<henna dyeId="731" dyeItemId="101067" dyeName="INT Pattern INT +5" patternLevel="14"> <!-- M. Atk. +300 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="15" />
+	</henna>
+	<henna dyeId="732" dyeItemId="101068" dyeName="INT Pattern INT +5" patternLevel="15"> <!-- M. Atk. +325 -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83020" level="16" />
+	</henna>
+	<henna dyeId="733" dyeItemId="101069" dyeName="INT Pattern INT +5" patternLevel="16"> <!-- M. Atk. +350, M. Skill Critical Rate +0.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="17" />
+	</henna>
+	<henna dyeId="734" dyeItemId="101070" dyeName="INT Pattern INT +5" patternLevel="17"> <!-- M. Atk. +375, M. Skill Critical Rate +1% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="18" />
+	</henna>
+	<henna dyeId="735" dyeItemId="101071" dyeName="INT Pattern INT +5" patternLevel="18"> <!-- M. Atk. +400, M. Skill Critical Rate +1.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="19" />
+	</henna>
+	<henna dyeId="736" dyeItemId="101072" dyeName="INT Pattern INT +5" patternLevel="19"> <!-- M. Atk. +425, M. Skill Critical Rate +2% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="20" />
+	</henna>
+	<henna dyeId="737" dyeItemId="101073" dyeName="INT Pattern INT +5" patternLevel="20"> <!-- M. Atk. +450, M. Skill Critical Rate +3% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83020" level="21" />
+	</henna>
+	<henna dyeId="738" dyeItemId="101074" dyeName="INT Pattern INT +5" patternLevel="21"> <!-- M. Atk. +475, M. Skill Critical Rate +3.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="22" />
+	</henna>
+	<henna dyeId="739" dyeItemId="101075" dyeName="INT Pattern INT +5" patternLevel="22"> <!-- M. Atk. +500, M. Skill Critical Rate +4% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="23" />
+	</henna>
+	<henna dyeId="740" dyeItemId="101076" dyeName="INT Pattern INT +5" patternLevel="23"> <!-- M. Atk. +525, M. Skill Critical Rate +4.5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="24" />
+	</henna>
+	<henna dyeId="741" dyeItemId="101077" dyeName="INT Pattern INT +5" patternLevel="24"> <!-- M. Atk. +550, M. Skill Critical Rate +5% -->
+		<stats str="0" con="0" dex="0" int="5" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="25" />
+	</henna>
+	<henna dyeId="742" dyeItemId="101078" dyeName="INT Pattern INT +6" patternLevel="25"> <!-- M. Atk. +575, M. Skill Critical Rate +5.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83020" level="26" />
+	</henna>
+	<henna dyeId="743" dyeItemId="101079" dyeName="INT Pattern INT +6" patternLevel="26"> <!-- M. Atk. +600, M. Skill Critical Rate +5.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="27" />
+	</henna>
+	<henna dyeId="744" dyeItemId="101080" dyeName="INT Pattern INT +6" patternLevel="27"> <!-- M. Atk. +625, M. Skill Critical Rate +6% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="28" />
+	</henna>
+	<henna dyeId="745" dyeItemId="101081" dyeName="INT Pattern INT +6" patternLevel="28"> <!-- M. Atk. +650, M. Skill Critical Rate +6.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="29" />
+	</henna>
+	<henna dyeId="746" dyeItemId="101082" dyeName="INT Pattern INT +6" patternLevel="29"> <!-- M. Atk. +675, M. Skill Critical Rate +7% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="30" />
+	</henna>
+	<henna dyeId="747" dyeItemId="101083" dyeName="INT Pattern INT +6" patternLevel="30"> <!-- M. Atk. +700, M. Skill Critical Rate +7.5% -->
+		<stats str="0" con="0" dex="0" int="6" men="0" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83020" level="31" />
+	</henna>
+	<henna dyeId="748" dyeItemId="101084" dyeName="MEN Pattern MEN +4" patternLevel="6"> <!-- M. Def. +150 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83021" level="7" />
+	</henna>
+	<henna dyeId="749" dyeItemId="101085" dyeName="MEN Pattern MEN +4" patternLevel="7"> <!-- M. Def. +187 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="8" />
+	</henna>
+	<henna dyeId="750" dyeItemId="101086" dyeName="MEN Pattern MEN +4" patternLevel="8"> <!-- M. Def. +225 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="9" />
+	</henna>
+	<henna dyeId="751" dyeItemId="101087" dyeName="MEN Pattern MEN +4" patternLevel="9"> <!-- M. Def. +262 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="10" />
+	</henna>
+	<henna dyeId="752" dyeItemId="101088" dyeName="MEN Pattern MEN +4" patternLevel="10"> <!-- M. Def. +300 -->
+		<stats str="0" con="0" dex="0" int="0" men="4" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83021" level="11" />
+	</henna>
+	<henna dyeId="753" dyeItemId="101089" dyeName="MEN Pattern MEN +5" patternLevel="11"> <!-- M. Def. +337 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="12" />
+	</henna>
+	<henna dyeId="754" dyeItemId="101090" dyeName="MEN Pattern MEN +5" patternLevel="12"> <!-- M. Def. +375 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="13" />
+	</henna>
+	<henna dyeId="755" dyeItemId="101091" dyeName="MEN Pattern MEN +5" patternLevel="13"> <!-- M. Def. +412 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="14" />
+	</henna>
+	<henna dyeId="756" dyeItemId="101092" dyeName="MEN Pattern MEN +5" patternLevel="14"> <!-- M. Def. +450 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="15" />
+	</henna>
+	<henna dyeId="757" dyeItemId="101093" dyeName="MEN Pattern MEN +5" patternLevel="15"> <!-- M. Def. +487 -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83021" level="16" />
+	</henna>
+	<henna dyeId="758" dyeItemId="101094" dyeName="MEN Pattern MEN +5" patternLevel="16"> <!-- M. Def. +525, received M. Skill Damage -1% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="17" />
+	</henna>
+	<henna dyeId="759" dyeItemId="101095" dyeName="MEN Pattern MEN +5" patternLevel="17"> <!-- M. Def. +562, received M. Skill Damage -1.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="18" />
+	</henna>
+	<henna dyeId="760" dyeItemId="101096" dyeName="MEN Pattern MEN +5" patternLevel="18"> <!-- M. Def. +600, received M. Skill Damage -2% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="19" />
+	</henna>
+	<henna dyeId="761" dyeItemId="101097" dyeName="MEN Pattern MEN +5" patternLevel="19"> <!-- M. Def. +637, received M. Skill Damage -3% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="20" />
+	</henna>
+	<henna dyeId="762" dyeItemId="101098" dyeName="MEN Pattern MEN +5" patternLevel="20"> <!-- M. Def. +675, received M. Skill Damage -5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83021" level="21" />
+	</henna>
+	<henna dyeId="763" dyeItemId="101099" dyeName="MEN Pattern MEN +5" patternLevel="21"> <!-- M. Def. +699, received M. Skill Damage -5.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="22" />
+	</henna>
+	<henna dyeId="764" dyeItemId="101100" dyeName="MEN Pattern MEN +5" patternLevel="22"> <!-- M. Def. +723, received M. Skill Damage -6% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="23" />
+	</henna>
+	<henna dyeId="765" dyeItemId="101101" dyeName="MEN Pattern MEN +5" patternLevel="23"> <!-- M. Def. +747, received M. Skill Damage -6.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="24" />
+	</henna>
+	<henna dyeId="766" dyeItemId="101102" dyeName="MEN Pattern MEN +5" patternLevel="24"> <!-- M. Def. +771, received M. Skill Damage -7% -->
+		<stats str="0" con="0" dex="0" int="0" men="5" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="25" />
+	</henna>
+	<henna dyeId="767" dyeItemId="101103" dyeName="MEN Pattern MEN +6" patternLevel="25"> <!-- M. Def. +795, received M. Skill Damage -7.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83021" level="26" />
+	</henna>
+	<henna dyeId="768" dyeItemId="101104" dyeName="MEN Pattern MEN +6" patternLevel="26"> <!-- M. Def. +819, received M. Skill Damage -8% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="27" />
+	</henna>
+	<henna dyeId="769" dyeItemId="101105" dyeName="MEN Pattern MEN +6" patternLevel="27"> <!-- M. Def. +843, received M. Skill Damage -8.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="28" />
+	</henna>
+	<henna dyeId="770" dyeItemId="101106" dyeName="MEN Pattern MEN +6" patternLevel="28"> <!-- M. Def. +867, received M. Skill Damage -9% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="29" />
+	</henna>
+	<henna dyeId="771" dyeItemId="101107" dyeName="MEN Pattern MEN +6" patternLevel="29"> <!-- M. Def. +891, received M. Skill Damage -9.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="30" />
+	</henna>
+	<henna dyeId="772" dyeItemId="101108" dyeName="MEN Pattern MEN +6" patternLevel="30"> <!-- M. Def. +915, received M. Skill Damage -10% -->
+		<stats str="0" con="0" dex="0" int="0" men="6" wit="0" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83021" level="31" />
+	</henna>
+	<henna dyeId="773" dyeItemId="101109" dyeName="WIT Pattern WIT +4" patternLevel="6"> <!-- Received M. Critical Rate -1.6% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="10000000" l2coinfee="200" />
+		<cancel count="1" fee="25000000" l2coinfee_cancel="500" />
+		<skill id="83022" level="7" />
+	</henna>
+	<henna dyeId="774" dyeItemId="101110" dyeName="WIT Pattern WIT +4" patternLevel="7"> <!-- Received M. Critical Rate -2.0% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="8" />
+	</henna>
+	<henna dyeId="775" dyeItemId="101111" dyeName="WIT Pattern WIT +4" patternLevel="8"> <!-- Received M. Critical Rate -2.4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="9" />
+	</henna>
+	<henna dyeId="776" dyeItemId="101112" dyeName="WIT Pattern WIT +4" patternLevel="9"> <!-- Received M. Critical Rate -2.8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="10" />
+	</henna>
+	<henna dyeId="777" dyeItemId="101113" dyeName="WIT Pattern WIT +4" patternLevel="10"> <!-- Received M. Critical Rate -3.2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="4" luc="0" cha="0" />
+		<wear count="1" fee="15000000" l2coinfee="300" />
+		<cancel count="1" fee="37500000" l2coinfee_cancel="750" />
+		<skill id="83022" level="11" />
+	</henna>
+	<henna dyeId="778" dyeItemId="101114" dyeName="WIT Pattern WIT +5" patternLevel="11"> <!-- Received M. Critical Rate -3.6% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="12" />
+	</henna>
+	<henna dyeId="779" dyeItemId="101115" dyeName="WIT Pattern WIT +5" patternLevel="12"> <!-- Received M. Critical Rate -4.0% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="13" />
+	</henna>
+	<henna dyeId="780" dyeItemId="101116" dyeName="WIT Pattern WIT +5" patternLevel="13"> <!-- Received M. Critical Rate -4.4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="14" />
+	</henna>
+	<henna dyeId="781" dyeItemId="101117" dyeName="WIT Pattern WIT +5" patternLevel="14"> <!-- Received M. Critical Rate -4.8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="15" />
+	</henna>
+	<henna dyeId="782" dyeItemId="101118" dyeName="WIT Pattern WIT +5" patternLevel="15"> <!-- Received M. Critical Rate -5.2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="30000000" l2coinfee="600" />
+		<cancel count="1" fee="75000000" l2coinfee_cancel="1500" />
+		<skill id="83022" level="16" />
+	</henna>
+	<henna dyeId="783" dyeItemId="101119" dyeName="WIT Pattern WIT +5" patternLevel="16"> <!-- Received M. Critical Rate -5.6%, Spiritshot damage +1% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="17" />
+	</henna>
+	<henna dyeId="784" dyeItemId="101120" dyeName="WIT Pattern WIT +5" patternLevel="17"> <!-- Received M. Critical Rate -6.0%, Spiritshot damage +1.5% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="18" />
+	</henna>
+	<henna dyeId="785" dyeItemId="101121" dyeName="WIT Pattern WIT +5" patternLevel="18"> <!-- Received M. Critical Rate -6.4%, Spiritshot damage +2% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="19" />
+	</henna>
+	<henna dyeId="786" dyeItemId="101122" dyeName="WIT Pattern WIT +5" patternLevel="19"> <!-- Received M. Critical Rate -6.8%, Spiritshot damage +3% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="20" />
+	</henna>
+	<henna dyeId="787" dyeItemId="101123" dyeName="WIT Pattern WIT +5" patternLevel="20"> <!-- Received M. Critical Rate -7.2%, Spiritshot damage +4% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="40000000" l2coinfee="800" />
+		<cancel count="1" fee="100000000" l2coinfee_cancel="2000" />
+		<skill id="83022" level="21" />
+	</henna>
+	<henna dyeId="788" dyeItemId="101124" dyeName="WIT Pattern WIT +5" patternLevel="21"> <!-- Received M. Skill Critical Rate -7.6%, Spiritshot damage +5% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="22" />
+	</henna>
+	<henna dyeId="789" dyeItemId="101125" dyeName="WIT Pattern WIT +5" patternLevel="22"> <!-- Received M. Skill Critical Rate -8.0%, Spiritshot damage +6% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="23" />
+	</henna>
+	<henna dyeId="790" dyeItemId="101126" dyeName="WIT Pattern WIT +5" patternLevel="23"> <!-- Received M. Skill Critical Rate -8.4%, Spiritshot damage +7% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="24" />
+	</henna>
+	<henna dyeId="791" dyeItemId="101127" dyeName="WIT Pattern WIT +5" patternLevel="24"> <!-- Received M. Skill Critical Rate -8.8%, Spiritshot damage +8% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="5" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="25" />
+	</henna>
+	<henna dyeId="792" dyeItemId="101128" dyeName="WIT Pattern WIT +6" patternLevel="25"> <!-- Received M. Skill Critical Rate -9.2%, Spiritshot damage +9% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="80000000" l2coinfee="1600" />
+		<cancel count="1" fee="200000000" l2coinfee_cancel="4000" />
+		<skill id="83022" level="26" />
+	</henna>
+	<henna dyeId="793" dyeItemId="101129" dyeName="WIT Pattern WIT +6" patternLevel="26"> <!-- Received M. Skill Critical Rate -9.6%, Spiritshot damage +10% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="27" />
+	</henna>
+	<henna dyeId="794" dyeItemId="101130" dyeName="WIT Pattern WIT +6" patternLevel="27"> <!-- Received M. Skill Critical Rate -10.0%, Spiritshot damage +11% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="28" />
+	</henna>
+	<henna dyeId="795" dyeItemId="101131" dyeName="WIT Pattern WIT +6" patternLevel="28"> <!-- Received M. Skill Critical Rate -10.4%, Spiritshot damage +12% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="29" />
+	</henna>
+	<henna dyeId="796" dyeItemId="101132" dyeName="WIT Pattern WIT +6" patternLevel="29"> <!-- Received M. Skill Critical Rate -10.8%, Spiritshot damage +13% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="30" />
+	</henna>
+	<henna dyeId="797" dyeItemId="101133" dyeName="WIT Pattern WIT +6" patternLevel="30"> <!-- Received M. Skill Critical Rate -11.2%, Spiritshot damage +14% -->
+		<stats str="0" con="0" dex="0" int="0" men="0" wit="6" luc="0" cha="0" />
+		<wear count="1" fee="120000000" l2coinfee="2400" />
+		<cancel count="1" fee="300000000" l2coinfee_cancel="6000" />
+		<skill id="83022" level="31" />
+	</henna>
+</list>

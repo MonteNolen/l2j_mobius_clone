@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- Item Multisell -->
+	</npcs>
+	<!-- Spellbooks - 3 Stars -->
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101493" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101492" count="1" /> <!-- Spellbook: Fortune Seeker's Blessing -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101230" count="1" /> <!-- Spellbook: Ability of Light - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101229" count="1" /> <!-- Spellbook: Ability of Light -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101182" count="1" /> <!-- Spellbook: Light Discharge - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101169" count="1" /> <!-- Spellbook: Light Discharge -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101183" count="1" /> <!-- Spellbook: Divine Guardian - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101170" count="1" /> <!-- Spellbook: Divine Guardian -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101184" count="1" /> <!-- Spellbook: Decoy - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101171" count="1" /> <!-- Spellbook: Decoy -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101185" count="1" /> <!-- Spellbook: Noblesse Circlet - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101172" count="1" /> <!-- Spellbook: Noblesse Circlet -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101155" count="1" /> <!-- Spellbook: Critical Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101141" count="1" /> <!-- Spellbook: Critical Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101156" count="1" /> <!-- Spellbook: Light Mastery - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101142" count="1" /> <!-- Spellbook: Light Mastery -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101157" count="1" /> <!-- Spellbook: Claidheamh Soluis - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101143" count="1" /> <!-- Spellbook: Claidheamh Soluis -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101158" count="1" /> <!-- Spellbook: Extreme Magic - Sealed -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+	<item>
+		<ingredient id="101144" count="1" /> <!-- Spellbook: Extreme Magic -->
+		<ingredient id="92314" count="137" /> <!-- Giran Seal -->
+		<ingredient id="57" count="6000000" /> <!-- Adena -->
+		<ingredient id="100444" count="1" /> <!-- Spellbook Change Coupon (Time-limited) - Sealed -->
+		<production id="97177" count="1" /> <!-- Spellbook Coupon - 3 Stars - Sealed -->
+	</item>
+</list>

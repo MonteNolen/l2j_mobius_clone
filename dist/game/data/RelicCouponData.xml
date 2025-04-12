@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/RelicCouponData.xsd"> 
+	 <coupon itemId="100887" relicId="49" /> <!-- Common Queen Ant  -->
+	 <coupon itemId="100888" relicId="55" /> <!-- Common Orfen  -->
+	 <coupon itemId="100889" relicId="61" /> <!-- Common Core  -->
+	 <coupon itemId="100890" relicId="73" /> <!-- Common Frintezza  -->
+	 <coupon itemId="100891" relicId="67" /> <!-- Common Zaken  -->
+	 <coupon itemId="100892" relicId="79" /> <!-- Common Baium  -->
+	 <coupon itemId="100893" relicId="85" /> <!-- Common Antharas  -->
+	 <coupon itemId="101267" relicId="23" /> <!-- Common King Petram  -->
+	 <coupon itemId="101268" relicId="19" /> <!-- Common King Procella  -->
+	 <coupon itemId="101269" relicId="1" /> <!-- Common Princess Molrang  -->
+						
+	 <coupon itemId="100894" relicId="50" /> <!-- Enhanced Queen Ant  -->
+	 <coupon itemId="100895" relicId="56" /> <!-- Enhanced Orfen  -->
+	 <coupon itemId="100896" relicId="62" /> <!-- Enhanced Core  -->
+	 <coupon itemId="100897" relicId="74" /> <!-- Enhanced Frintezza  -->
+	 <coupon itemId="100898" relicId="68" /> <!-- Enhanced Zaken  -->
+	 <coupon itemId="100899" relicId="80" /> <!-- Enhanced Baium  -->
+	 <coupon itemId="100900" relicId="86" /> <!-- Enhanced Antharas  -->
+	 <coupon itemId="100901" relicId="97" /> <!-- Enhanced Behemoth  -->
+	 <coupon itemId="100902" relicId="91" /> <!-- Enhanced Glakias  -->
+	 <coupon itemId="100903" relicId="103" /> <!-- Enhanced Andreas van Halter  -->
+	 <coupon itemId="100904" relicId="109" /> <!-- Enhanced Kelbim  -->
+	 <coupon itemId="101390" relicId="115" /> <!-- Enhanced Ferion -->
+						
+	 <coupon itemId="100905" relicId="51" /> <!-- Superior Queen Ant  -->
+	 <coupon itemId="100906" relicId="57" /> <!-- Superior Orfen  -->
+	 <coupon itemId="100907" relicId="63" /> <!-- Superior Core  -->
+	 <coupon itemId="100908" relicId="75" /> <!-- Superior Frintezza  -->
+	 <coupon itemId="100909" relicId="69" /> <!-- Superior Zaken  -->
+	 <coupon itemId="100910" relicId="81" /> <!-- Superior Baium  -->
+	 <coupon itemId="100911" relicId="87" /> <!-- Superior Antharas  -->
+	 <coupon itemId="100912" relicId="98" /> <!-- Superior Behemoth  -->
+	 <coupon itemId="100913" relicId="92" /> <!-- Superior Glakias  -->
+	 <coupon itemId="100914" relicId="104" /> <!-- Superior Andreas van Halter  -->
+	 <coupon itemId="100915" relicId="110" /> <!-- Superior Kelbim  -->
+	 <coupon itemId="101391" relicId="116" /> <!-- Superior Ferion  -->
+	 <coupon itemId="101484" relicId="13" /> <!-- Superior King Ignis  -->
+	 <coupon itemId="101485" relicId="17" /> <!-- Superior Queen Nebula  -->
+	 <coupon itemId="101486" relicId="21" /> <!-- Superior King Procella  -->
+	 <coupon itemId="101487" relicId="25" /> <!-- Superior King Petram  -->
+	 <coupon itemId="101488" relicId="29" /> <!-- Superior Tiron  -->
+	 <coupon itemId="101489" relicId="33" /> <!-- Superior Scarlet van Halisha  -->
+	 <coupon itemId="101490" relicId="39" /> <!-- Superior Anakim  -->
+	 <coupon itemId="101491" relicId="45" /> <!-- Superior Lilith  -->
+						
+	 <coupon itemId="100916" relicId="52" /> <!-- Rare Queen Ant  -->
+	 <coupon itemId="100917" relicId="58" /> <!-- Rare Orfen  -->
+	 <coupon itemId="100918" relicId="64" /> <!-- Rare Core  -->
+	 <coupon itemId="100919" relicId="76" /> <!-- Rare Frintezza  -->
+	 <coupon itemId="100920" relicId="70" /> <!-- Rare Zaken  -->
+	 <coupon itemId="100921" relicId="82" /> <!-- Rare Baium  -->
+	 <coupon itemId="100922" relicId="88" /> <!-- Rare Antharas  -->
+	 <coupon itemId="100923" relicId="99" /> <!-- Rare Behemoth  -->
+	 <coupon itemId="100924" relicId="93" /> <!-- Rare Glakias  -->
+	 <coupon itemId="100925" relicId="105" /> <!-- Rare Andreas van Halter  -->
+	 <coupon itemId="100926" relicId="111" /> <!-- Rare Kelbim  -->
+	 <coupon itemId="101392" relicId="117" /> <!-- Rare Ferion  -->
+						
+	 <coupon itemId="100927" relicId="53" /> <!-- Heroic Queen Ant  -->
+	 <coupon itemId="100928" relicId="59" /> <!-- Heroic Orfen  -->
+	 <coupon itemId="100929" relicId="65" /> <!-- Heroic Core  -->
+	 <coupon itemId="100930" relicId="77" /> <!-- Heroic Frintezza  -->
+	 <coupon itemId="100931" relicId="71" /> <!-- Heroic Zaken  -->
+	 <coupon itemId="100932" relicId="83" /> <!-- Heroic Baium  -->
+	 <coupon itemId="100933" relicId="89" /> <!-- Heroic Antharas  -->
+	 <coupon itemId="100934" relicId="100" /> <!-- Heroic Behemoth  -->
+	 <coupon itemId="100935" relicId="94" /> <!-- Heroic Glakias  -->
+	 <coupon itemId="100936" relicId="106" /> <!-- Heroic Andreas van Halter  -->
+	 <coupon itemId="100937" relicId="112" /> <!-- Heroic Kelbim  -->
+	 <coupon itemId="101393" relicId="118" /> <!-- Heroic Ferion  -->
+						
+	 <coupon itemId="100938" relicId="54" /> <!-- Legendary Queen Ant  -->
+	 <coupon itemId="100939" relicId="60" /> <!-- Legendary Orfen  -->
+	 <coupon itemId="100940" relicId="66" /> <!-- Legendary Core  -->
+	 <coupon itemId="100941" relicId="78" /> <!-- Legendary Frintezza  -->
+	 <coupon itemId="100942" relicId="72" /> <!-- Legendary Zaken  -->
+	 <coupon itemId="100943" relicId="84" /> <!-- Legendary Baium  -->
+	 <coupon itemId="100944" relicId="90" /> <!-- Legendary Antharas  -->
+	 <coupon itemId="100945" relicId="101" /> <!-- Legendary Behemoth  -->
+	 <coupon itemId="100946" relicId="95" /> <!-- Legendary Glakias  -->
+	 <coupon itemId="100947" relicId="107" /> <!-- Legendary Andreas van Halter  -->
+	 <coupon itemId="100948" relicId="113" /> <!-- Legendary Kelbim  -->
+	 <coupon itemId="101394" relicId="119" /> <!-- Legendary Ferion  -->
+						
+	 <coupon itemId="100949" relicId="102" /> <!-- Mythic Behemoth  -->
+	 <coupon itemId="100950" relicId="96" /> <!-- Mythic Glakias  -->
+	 <coupon itemId="100951" relicId="108" /> <!-- Mythic Andreas van Halter  -->
+	 <coupon itemId="100952" relicId="114" /> <!-- Mythic Kelbim  -->
+	 <coupon itemId="101395" relicId="120" /> <!-- Mythic Ferion  -->
+</list>

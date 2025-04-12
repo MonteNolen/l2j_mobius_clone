@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="22900" level="80" type="Monster" name="Ghost Knights' Fighter" title="Illusory Servant" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="167616" sp="1670" attributeExp="1144" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="66677.21519" hpRegen="10.2" mp="2227.484" mpRegen="3.6" />
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="409.65" magical="258.5499" />
+			<speed>
+				<walk ground="70" />
+				<run ground="200" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="15.6" />
+			<height normal="33.4" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48587" level="3" /> <!-- Bow/ Firearms Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="400" max="443" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22901" level="80" type="Monster" name="Ghost Knights' Berserker" title="Illusory Knight" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="195552" sp="1952" attributeExp="1144" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="66677.21519" hpRegen="10.2" mp="2227.484" mpRegen="3.6" />
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="409.65" magical="258.5499" />
+			<speed>
+				<walk ground="70" />
+				<run ground="200" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="20.8" />
+			<height normal="39.9" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48587" level="3" /> <!-- Bow/ Firearms Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="400" max="443" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22902" level="80" type="Monster" name="Ghost Knights' Commander" title="Illusory Knight Captain" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="223488" sp="2234" attributeExp="1144" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="66677.21519" hpRegen="10.2" mp="2227.484" mpRegen="3.6" />
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="409.65" magical="258.5499" />
+			<speed>
+				<walk ground="70" />
+				<run ground="200" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="19.5" />
+			<height normal="39.9" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
+			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48587" level="3" /> <!-- Bow/ Firearms Resistance -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="400" max="443" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22903" level="89" type="Monster" name="Apostle" title="Heavenly Saint" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="91986" /> <!-- Monster Only (Grail Apostle Spear) -->
+		<acquire exp="684656" sp="6844" attributeExp="979" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73582.91139" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2106" magical="982" />
+			<speed>
+				<walk ground="50" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="12" />
+			<height normal="63.4" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22904" level="89" type="Monster" name="Deacon" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="6717" /> <!-- Monster Only (Einhasad Warrior) -->
+		<acquire exp="684656" sp="6844" attributeExp="979" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73582.91139" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2106" magical="982" />
+			<speed>
+				<walk ground="50" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="8.8" grown="9.9" />
+			<height normal="33.3" grown="40.45" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22905" level="91" type="Monster" name="Foreteller" title="Heavenly Saint" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="1334449" sp="11602" attributeExp="1001" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="105959.49367" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2660" magical="1108" />
+			<speed>
+				<walk ground="50" />
+				<run ground="130" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="26.4" />
+			<height normal="54.2" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22906" level="91" type="Monster" name="High Elder" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="1334449" sp="11602" attributeExp="1001" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="105959.49367" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2660" magical="1108" />
+			<speed>
+				<walk ground="60" />
+				<run ground="130" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="21.6" />
+			<height normal="38.1" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22907" level="94" type="Monster" name="Archbishop" title="Heavenly Saint" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="3415041" sp="34142" attributeExp="1034" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="183098.10127" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="4719" magical="3221" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="3491" magical="1297" />
+			<speed>
+				<walk ground="40" />
+				<run ground="130" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="19.8" />
+			<height normal="48.7" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22908" level="94" type="Monster" name="High Seer" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="91986" /> <!-- Monster Only (Grail Apostle Spear) -->
+		<acquire exp="3415041" sp="34142" attributeExp="1034" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="183098.10127" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="4719" magical="3221" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="3491" magical="1297" />
+			<speed>
+				<walk ground="30" />
+				<run ground="130" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="13" />
+			<height normal="47" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="8" /> <!-- Angels -->
+			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22909" level="10" type="Monster" name="Nymph Silva">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="146" sp="1" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="172.242688443633" hpRegen="2" mp="108.4" mpRegen="0.9" />
+			<attack physical="19.33758" magical="13.20506" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="61.82527" magical="45.24105" />
+			<speed>
+				<walk ground="15" />
+				<run ground="80" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="8" />
+			<height normal="15" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="6" max="6" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22910" level="15" type="Monster" name="Nymph Ales">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="235" sp="2" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="260.500236582205" hpRegen="2.5" mp="149.2" mpRegen="1.2" />
+			<attack physical="29.61691" magical="20.22451" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="73.55216" magical="53.82228" />
+			<speed>
+				<walk ground="60" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="10" />
+			<height normal="13" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="7" max="8" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22911" level="17" type="Monster" name="Nymph Saura">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="284" sp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="298.073870812572" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
+			<attack physical="34.8979" magical="23.83074" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="78.68469" magical="57.57804" />
+			<speed>
+				<walk ground="80" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="7.2" />
+			<height normal="15.8" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="8" max="9" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22912" level="5" type="Monster" name="Nymph Cliss">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="91" sp="1" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="84.5708723990791" hpRegen="2" mp="69.6" mpRegen="0.9" />
+			<attack physical="12.34006" magical="8.42666" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="51.60553" magical="37.76269" />
+			<speed>
+				<walk ground="80" />
+				<run ground="150" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="7" />
+			<height normal="20.1" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="2" max="2" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22913" level="89" type="Monster" name="Element Weaver Silva" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="792100" sp="7921" attributeExp="1273" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="100000" hpRegen="10.2" mp="12358.8" mpRegen="3.6" />
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2106" magical="982" />
+			<speed>
+				<walk ground="15" />
+				<run ground="140" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="11" />
+			<height normal="19" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="3093" max="3327" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22914" level="90" type="Monster" name="Element Weaver Ales" title="Embraced by Shadows" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="1134000" sp="11340" attributeExp="1287" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="200000" hpRegen="10.2" mp="12358.8" mpRegen="3.6" />
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2383" magical="1045" />
+			<speed>
+				<walk ground="50" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="20" />
+			<height normal="39" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="3509" max="3775" chance="70" /> <!-- Adena -->
+				<item id="9416" min="1" max="1" chance="0.002" /> <!-- Hunter's Breastplate -->
+				<item id="9421" min="1" max="1" chance="0.004" /> <!-- Hunter's Gaiters -->
+				<item id="9425" min="1" max="1" chance="0.002" /> <!-- Hunter's Leather Armor -->
+				<item id="9428" min="1" max="1" chance="0.004" /> <!-- Hunter's Leather Leggings -->
+				<item id="9432" min="1" max="1" chance="0.002" /> <!-- Hunter's Tunic -->
+				<item id="9437" min="1" max="1" chance="0.004" /> <!-- Hunter's Stockings -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22915" level="90" type="Monster" name="Element Weaver Saura" title="Embraced by Shadows" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="1134000" sp="11340" attributeExp="1287" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="200000" hpRegen="10.2" mp="12358.8" mpRegen="3.6" />
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2383" magical="1045" />
+			<speed>
+				<walk ground="80" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="18" />
+			<height normal="44" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="3509" max="3775" chance="70" /> <!-- Adena -->
+				<item id="9416" min="1" max="1" chance="0.002" /> <!-- Hunter's Breastplate -->
+				<item id="9421" min="1" max="1" chance="0.004" /> <!-- Hunter's Gaiters -->
+				<item id="9425" min="1" max="1" chance="0.002" /> <!-- Hunter's Leather Armor -->
+				<item id="9428" min="1" max="1" chance="0.004" /> <!-- Hunter's Leather Leggings -->
+				<item id="9432" min="1" max="1" chance="0.002" /> <!-- Hunter's Tunic -->
+				<item id="9437" min="1" max="1" chance="0.004" /> <!-- Hunter's Stockings -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22916" level="89" type="Monster" name="Element Weaver Cliss" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="792100" sp="7921" attributeExp="1273" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="100000" hpRegen="10.2" mp="12358.8" mpRegen="3.6" />
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2106" magical="982" />
+			<speed>
+				<walk ground="80" />
+				<run ground="150" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="10" />
+			<height normal="30" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="4" /> <!-- Animals -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="3093" max="3327" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22917" level="85" type="Monster" name="Wasteland Watcher" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="52345" sp="520" attributeExp="1029" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="21574.68354" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="998.10183" magical="730.36761" />
+			<speed>
+				<walk ground="40" />
+				<run ground="150" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="30" />
+			<height normal="36.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
+			<skill id="48587" level="3" /> <!-- Bow/ Firearms Resistance -->
+		</skillList>
+	</npc>
+	<npc id="22918" level="88" type="Monster" name="Oasis Creature" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="213015" sp="705" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="118903.79747" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="30" />
+				<run ground="150" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="26.4" grown="1.44" />
+			<height normal="48.6" grown="48.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22919" level="85" type="Monster" name="Klein's Defender" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="52345" sp="520" attributeExp="1029" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="21574.68354" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="998.10183" magical="730.36761" />
+			<speed>
+				<walk ground="54" />
+				<run ground="170" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="34" />
+			<height normal="47" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22920" level="85" type="Monster" name="Klein's Golem" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="52345" sp="520" attributeExp="1029" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="21574.68354" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="998.10183" magical="730.36761" />
+			<speed>
+				<walk ground="20" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="41" />
+			<height normal="30.5" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="2" /> <!-- Magical Creatures -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22921" level="85" type="Monster" name="Klein's Mage" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<acquire exp="52345" sp="520" attributeExp="1029" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="21574.68354" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="998.10183" magical="730.36761" />
+			<speed>
+				<walk ground="29" />
+				<run ground="93" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="30" />
+			<height normal="42" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22922" level="85" type="Monster" name="Klein's Fighter" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<acquire exp="52345" sp="520" attributeExp="1029" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="21574.68354" hpRegen="10.2" mp="2770.2" mpRegen="3.6" />
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="998.10183" magical="730.36761" />
+			<speed>
+				<walk ground="40" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<collision>
+			<radius normal="38.7" />
+			<height normal="54.5" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="3" /> <!-- Beasts -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22923" level="88" type="Monster" name="Elite Raider" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="213015" sp="705" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="118903.79747" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="60" />
+				<run ground="150" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="15.6" />
+			<height normal="43.2" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22924" level="88" type="Monster" name="Archon of Darkness" title="Vander's Apostle" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="406349" sp="4058" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="237808.22785" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="60" />
+				<run ground="210" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="13" />
+			<height normal="42.5" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="2314" max="2556" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22925" level="88" type="Monster" name="Dark Wizard of Gloom" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="208384" sp="2083" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="118903.79747" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="36" />
+				<run ground="64" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai type="MAGE" clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="19.8" />
+			<height normal="32.64" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="6" /> <!-- Humanoids -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="2314" max="2556" chance="70" /> <!-- Adena -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22926" level="88" type="Monster" name="Shooter of Darkness" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="15304" /> <!-- Transparent Crossbow (NPC) - Not Available -->
+		<acquire exp="208384" sp="2083" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="118903.79747" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="57" />
+				<run ground="270" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai type="ARCHER" clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="12" />
+			<height normal="39" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="2314" max="2556" chance="70" /> <!-- Adena -->
+				<item id="9416" min="1" max="1" chance="0.001" /> <!-- Hunter's Breastplate -->
+				<item id="9421" min="1" max="1" chance="0.002" /> <!-- Hunter's Gaiters -->
+				<item id="9425" min="1" max="1" chance="0.001" /> <!-- Hunter's Leather Armor -->
+				<item id="9428" min="1" max="1" chance="0.002" /> <!-- Hunter's Leather Leggings -->
+				<item id="9432" min="1" max="1" chance="0.001" /> <!-- Hunter's Tunic -->
+				<item id="9437" min="1" max="1" chance="0.002" /> <!-- Hunter's Stockings -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22927" level="88" type="Monster" name="Assassin of Darkness" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="101442" /> <!-- Only_for_NPC_Execution_Grounds_Ranged_Battle_Only_for_Monsters - Not Available -->
+		<acquire exp="208384" sp="2083" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="118903.79747" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="40" />
+				<run ground="240" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="16.8" />
+			<height normal="37.8" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="2314" max="2556" chance="70" /> <!-- Adena -->
+				<item id="97787" min="1" max="1" chance="0.012" /> <!-- Augmenting Stone: Special Equipment -->
+				<item id="9416" min="1" max="1" chance="0.0008" /> <!-- Hunter's Breastplate -->
+				<item id="9421" min="1" max="1" chance="0.001" /> <!-- Hunter's Gaiters -->
+				<item id="9425" min="1" max="1" chance="0.0008" /> <!-- Hunter's Leather Armor -->
+				<item id="9428" min="1" max="1" chance="0.001" /> <!-- Hunter's Leather Leggings -->
+				<item id="9432" min="1" max="1" chance="0.0008" /> <!-- Hunter's Tunic -->
+				<item id="9437" min="1" max="1" chance="0.001" /> <!-- Hunter's Stockings -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22928" level="88" type="Monster" name="Vander" title="Oasis Plunderer" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="40634936" sp="4646" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="17835600" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="85" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="39" />
+			<height normal="77.6" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+		<dropLists>
+			<drop>
+				<item id="57" min="4992" max="5516" chance="70" /> <!-- Adena -->
+				<item id="9416" min="1" max="1" chance="0.003" /> <!-- Hunter's Breastplate -->
+				<item id="9421" min="1" max="1" chance="0.005" /> <!-- Hunter's Gaiters -->
+				<item id="9425" min="1" max="1" chance="0.003" /> <!-- Hunter's Leather Armor -->
+				<item id="9428" min="1" max="1" chance="0.005" /> <!-- Hunter's Leather Leggings -->
+				<item id="9432" min="1" max="1" chance="0.003" /> <!-- Hunter's Tunic -->
+				<item id="9437" min="1" max="1" chance="0.005" /> <!-- Hunter's Stockings -->
+			</drop>
+		</dropLists>
+	</npc>
+	<npc id="22929" level="88" type="Monster" name="Vander's Attendant" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="250061" sp="2494" attributeExp="1258" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="118903.79747" hpRegen="10.2" mp="11714.4" mpRegen="3.6" />
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1829" magical="919" />
+			<speed>
+				<walk ground="60" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true" />
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>WASTELAND_OASIS</clan>
+			</clanList>
+		</ai>
+		<collision>
+			<radius normal="20.4" />
+			<height normal="53.4" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="10" /> <!-- Dragons -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+</list>

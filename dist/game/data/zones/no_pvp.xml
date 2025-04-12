@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<!-- No PvP Zones -->
+	<zone name="primeval_isle_no_pvp" type="NoPvPZone" shape="NPoly" minZ="-5000" maxZ="2000">
+		<node X="20" Y="-20" />
+		<node X="20" Y="-32745" />
+		<node X="32745" Y="-32745" />
+		<node X="32745" Y="-20" />
+	</zone>
+</list>

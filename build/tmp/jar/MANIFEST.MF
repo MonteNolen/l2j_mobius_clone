@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-By: morta
+Build-Date: 2025-04-11 23:12:03 MSK
+Implementation-URL: http://www.l2jmobius.org/
+Class-Path: ../libs/HikariCP-6.2.1.jar ../libs/mysql-connector-j-9.2.0.j
+ ar ../libs/slf4j-api-2.0.16.jar ../libs/slf4j-simple-2.0.16.jar
+Main-Class: org.l2jmobius.gameserver.GameServer
+

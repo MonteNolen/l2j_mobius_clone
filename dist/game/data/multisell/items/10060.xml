@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- Item Multisell -->
+	</npcs>
+	<!-- Spellbooks - 2 Stars -->
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101151" count="1" /> <!-- Spellbook: Blazing Tempest - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101152" count="1" /> <!-- Spellbook: Glacier Strike - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101153" count="1" /> <!-- Spellbook: Florescence - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101154" count="1" /> <!-- Spellbook: Simple Meditation - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101178" count="1" /> <!-- Spellbook: Light Counter - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101179" count="1" /> <!-- Spellbook: Flying Leap - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101180" count="1" /> <!-- Spellbook: Privilege - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101181" count="1" /> <!-- Spellbook: Judgment - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97045" count="1" /> <!-- Spellbook: Magic Circle - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97046" count="1" /> <!-- Spellbook: Heavy Sleep - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="98285" count="1" /> <!-- Spellbook: Mighty Children of Eva - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100715" count="1" /> <!-- Spellbook: Winter Shackles - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100716" count="1" /> <!-- Spellbook: Winter Slumber - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100717" count="1" /> <!-- Spellbook: Riot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100436" count="1" /> <!-- Spellbook: Blade Rush - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100437" count="1" /> <!-- Spellbook: Tough Body: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100267" count="1" /> <!-- Spellbook: Binding Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100268" count="1" /> <!-- Spellbook: Incendiary Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100269" count="1" /> <!-- Spellbook: Freezing Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100270" count="1" /> <!-- Spellbook: Wind Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101151" count="1" /> <!-- Spellbook: Blazing Tempest - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101152" count="1" /> <!-- Spellbook: Glacier Strike - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101153" count="1" /> <!-- Spellbook: Florescence - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101154" count="1" /> <!-- Spellbook: Simple Meditation - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101178" count="1" /> <!-- Spellbook: Light Counter - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101179" count="1" /> <!-- Spellbook: Flying Leap - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101180" count="1" /> <!-- Spellbook: Privilege - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101181" count="1" /> <!-- Spellbook: Judgment - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97045" count="1" /> <!-- Spellbook: Magic Circle - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97046" count="1" /> <!-- Spellbook: Heavy Sleep - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="98285" count="1" /> <!-- Spellbook: Mighty Children of Eva - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100715" count="1" /> <!-- Spellbook: Winter Shackles - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100716" count="1" /> <!-- Spellbook: Winter Slumber - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100717" count="1" /> <!-- Spellbook: Riot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100436" count="1" /> <!-- Spellbook: Blade Rush - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100437" count="1" /> <!-- Spellbook: Tough Body: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100267" count="1" /> <!-- Spellbook: Binding Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100268" count="1" /> <!-- Spellbook: Incendiary Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100269" count="1" /> <!-- Spellbook: Freezing Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100270" count="1" /> <!-- Spellbook: Wind Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101151" count="1" /> <!-- Spellbook: Blazing Tempest - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101152" count="1" /> <!-- Spellbook: Glacier Strike - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101153" count="1" /> <!-- Spellbook: Florescence - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101154" count="1" /> <!-- Spellbook: Simple Meditation - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101178" count="1" /> <!-- Spellbook: Light Counter - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101179" count="1" /> <!-- Spellbook: Flying Leap - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101180" count="1" /> <!-- Spellbook: Privilege - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101181" count="1" /> <!-- Spellbook: Judgment - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97045" count="1" /> <!-- Spellbook: Magic Circle - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97046" count="1" /> <!-- Spellbook: Heavy Sleep - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="98285" count="1" /> <!-- Spellbook: Mighty Children of Eva - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100715" count="1" /> <!-- Spellbook: Winter Shackles - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100716" count="1" /> <!-- Spellbook: Winter Slumber - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100717" count="1" /> <!-- Spellbook: Riot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100436" count="1" /> <!-- Spellbook: Blade Rush - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100437" count="1" /> <!-- Spellbook: Tough Body: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100267" count="1" /> <!-- Spellbook: Binding Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100268" count="1" /> <!-- Spellbook: Incendiary Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100269" count="1" /> <!-- Spellbook: Freezing Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100270" count="1" /> <!-- Spellbook: Wind Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101151" count="1" /> <!-- Spellbook: Blazing Tempest - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101152" count="1" /> <!-- Spellbook: Glacier Strike - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101153" count="1" /> <!-- Spellbook: Florescence - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101154" count="1" /> <!-- Spellbook: Simple Meditation - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101178" count="1" /> <!-- Spellbook: Light Counter - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101179" count="1" /> <!-- Spellbook: Flying Leap - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101180" count="1" /> <!-- Spellbook: Privilege - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101181" count="1" /> <!-- Spellbook: Judgment - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97045" count="1" /> <!-- Spellbook: Magic Circle - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97046" count="1" /> <!-- Spellbook: Heavy Sleep - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="98285" count="1" /> <!-- Spellbook: Mighty Children of Eva - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100715" count="1" /> <!-- Spellbook: Winter Shackles - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100716" count="1" /> <!-- Spellbook: Winter Slumber - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100717" count="1" /> <!-- Spellbook: Riot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100436" count="1" /> <!-- Spellbook: Blade Rush - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100437" count="1" /> <!-- Spellbook: Tough Body: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100267" count="1" /> <!-- Spellbook: Binding Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100268" count="1" /> <!-- Spellbook: Incendiary Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100269" count="1" /> <!-- Spellbook: Freezing Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100270" count="1" /> <!-- Spellbook: Wind Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101151" count="1" /> <!-- Spellbook: Blazing Tempest - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101152" count="1" /> <!-- Spellbook: Glacier Strike - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101153" count="1" /> <!-- Spellbook: Florescence - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101154" count="1" /> <!-- Spellbook: Simple Meditation - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101178" count="1" /> <!-- Spellbook: Light Counter - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101179" count="1" /> <!-- Spellbook: Flying Leap - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101180" count="1" /> <!-- Spellbook: Privilege - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="101181" count="1" /> <!-- Spellbook: Judgment - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97045" count="1" /> <!-- Spellbook: Magic Circle - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="97046" count="1" /> <!-- Spellbook: Heavy Sleep - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="98285" count="1" /> <!-- Spellbook: Mighty Children of Eva - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100715" count="1" /> <!-- Spellbook: Winter Shackles - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100716" count="1" /> <!-- Spellbook: Winter Slumber - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100717" count="1" /> <!-- Spellbook: Riot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100436" count="1" /> <!-- Spellbook: Blade Rush - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100437" count="1" /> <!-- Spellbook: Tough Body: Dual Weapons - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100267" count="1" /> <!-- Spellbook: Binding Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100268" count="1" /> <!-- Spellbook: Incendiary Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100269" count="1" /> <!-- Spellbook: Freezing Shot - Sealed -->
+	</item>
+	<item>
+		<ingredient id="97122" count="1" /> <!-- Spellbook Coupon - 2 Stars (Time-limited) - Sealed -->
+		<production id="100270" count="1" /> <!-- Spellbook: Wind Shot - Sealed -->
+	</item>
+</list>
